@@ -79,7 +79,7 @@ header{background:var(--crimson);color:white;padding:0 20px;display:flex;align-i
   <div class="note">RSU5 Community Assistant &middot; Powered by Claude AI &middot; Not an official district resource</div>
 </div>
 <script>
-var history=[],isLoading=false;
+var chatHistory=[],isLoading=false;
 function sendMessage(){
   if(isLoading)return;
   var input=document.getElementById('user-input');
@@ -89,12 +89,12 @@ function sendMessage(){
   isLoading=true;document.getElementById('send-btn').disabled=true;
   addMessage('user',question);
   var tid=addTyping('Searching RSU5 documents...');
-  fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:question,history:history})})
+  fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:question,history:chatHistory})})
   .then(function(r){return r.json().then(function(d){return {ok:r.ok,d:d};});})
   .then(function(rd){
     if(!rd.ok)throw new Error(rd.d.error||'Server error');
-    history.push({role:'user',content:question});
-    history.push({role:'assistant',content:rd.d.answer});
+    chatHistory.push({role:'user',content:question});
+    chatHistory.push({role:'assistant',content:rd.d.answer});
     removeTyping(tid);addMessage('assistant',rd.d.answer);
   })
   .catch(function(e){removeTyping(tid);addErr('Error: '+e.message);})
