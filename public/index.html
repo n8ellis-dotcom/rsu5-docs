@@ -115,7 +115,7 @@ function addTyping(label){
   const div=document.createElement("div");div.className="msg assistant typing";div.id=id;
   const av=document.createElement("div");av.className="avatar";av.textContent="5";
   const b=document.createElement("div");b.className="bubble";
-  b.innerHTML="<div class="fm">"+label+"</div><div class="typing-dots"><span></span><span></span><span></span></div>";
+  b.innerHTML='<div class="fm">'+label+'</div><div class="typing-dots"><span></span><span></span><span></span></div>';
   div.appendChild(av);div.appendChild(b);msgs.appendChild(div);msgs.scrollTop=msgs.scrollHeight;return id;
 }
 function removeTyping(id){const el=document.getElementById(id);if(el)el.remove();}
