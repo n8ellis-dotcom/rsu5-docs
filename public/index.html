@@ -92,15 +92,9 @@ function sendMessage(){
   fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:question,history:chatHistory})})
   .then(function(r){return r.json().then(function(d){return {ok:r.ok,d:d};});})
   .then(function(rd){
-<<<<<<< HEAD
-    if(!rd.ok)throw new Error(rd.d.error||'Server error');
-    chatHistory.push({role:'user',content:question});
-    chatHistory.push({role:'assistant',content:rd.d.answer});
-=======
         chatHistory.push({role:'user',content:question});
         chatHistory.push({role:'assistant',content:rd.d.answer});
     chatHistory.push({role:'assistant',content:rd.d.answer});
->>>>>>> e0c1a6d9050d5458145719338f7c0a420b5f1069
     removeTyping(tid);addMessage('assistant',rd.d.answer);
   })
   .catch(function(e){removeTyping(tid);addErr('Error: '+e.message);})
