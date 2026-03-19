@@ -11,7 +11,7 @@
 body{font-family:'Source Sans 3',sans-serif;background:var(--cream);color:var(--charcoal);height:100vh;display:flex;flex-direction:column;overflow:hidden;}
 header{background:var(--crimson);color:white;padding:0 20px;display:flex;align-items:center;gap:14px;height:58px;flex-shrink:0;box-shadow:0 2px 8px rgba(0,0,0,.25);}
 .logo{width:36px;height:36px;background:white;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:'Libre Baskerville',serif;font-weight:700;color:var(--crimson);font-size:11px;flex-shrink:0;line-height:1.2;text-align:center;}
-.ht{font-family:'Libre Baskerville',serif;font-size:17px;font-weight:700;}
+.ht{font-family:'Libre Baskerville',serif;font-size:17px;font-weiht:700;}
 .hs{font-size:11px;opacity:.75;text-transform:uppercase;letter-spacing:.06em;margin-top:1px;}
 .hw{margin-left:auto;font-size:11px;opacity:.65;text-align:right;text-transform:uppercase;letter-spacing:.05em;line-height:1.4;}
 .sbar{background:var(--warm-white);border-bottom:1px solid var(--border);padding:6px 16px;font-size:11px;color:var(--mid-gray);display:flex;align-items:center;gap:6px;flex-shrink:0;}
@@ -92,9 +92,15 @@ function sendMessage(){
   fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:question,history:chatHistory})})
   .then(function(r){return r.json().then(function(d){return {ok:r.ok,d:d};});})
   .then(function(rd){
+<<<<<<< HEAD
     if(!rd.ok)throw new Error(rd.d.error||'Server error');
     chatHistory.push({role:'user',content:question});
     chatHistory.push({role:'assistant',content:rd.d.answer});
+=======
+        chatHistory.push({role:'user',content:question});
+        chatHistory.push({role:'assistant',content:rd.d.answer});
+    chatHistory.push({role:'assistant',content:rd.d.answer});
+>>>>>>> e0c1a6d9050d5458145719338f7c0a420b5f1069
     removeTyping(tid);addMessage('assistant',rd.d.answer);
   })
   .catch(function(e){removeTyping(tid);addErr('Error: '+e.message);})
