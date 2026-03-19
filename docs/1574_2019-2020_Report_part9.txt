@@ -1,0 +1,739 @@
+id:82)(cid:85)(cid:3)(cid:80)(cid:68)(cid:79)(cid:72)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)
+(cid:73)(cid:72)(cid:80)(cid:68)(cid:79)(cid:72)(cid:86)(cid:17)(cid:3)
+(cid:3)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:70)(cid:87)(cid:88)(cid:68)(cid:85)(cid:76)(cid:68)(cid:79)(cid:3)(cid:68)(cid:86)(cid:86)(cid:88)(cid:80)(cid:83)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:88)(cid:86)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:45)(cid:88)(cid:81)(cid:72)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:20)(cid:28)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:90)(cid:72)(cid:85)(cid:72)(cid:3)(cid:69)(cid:68)(cid:86)(cid:72)(cid:71)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:86)(cid:88)(cid:79)(cid:87)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:81)(cid:3)(cid:68)(cid:70)(cid:87)(cid:88)(cid:68)(cid:85)(cid:76)(cid:68)(cid:79)(cid:3)
+(cid:72)(cid:91)(cid:83)(cid:72)(cid:85)(cid:76)(cid:72)(cid:81)(cid:70)(cid:72)(cid:3)(cid:86)(cid:87)(cid:88)(cid:71)(cid:92)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:76)(cid:82)(cid:71)(cid:3)(cid:45)(cid:88)(cid:81)(cid:72)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:20)(cid:21)(cid:3)(cid:87)(cid:75)(cid:85)(cid:82)(cid:88)(cid:74)(cid:75)(cid:3)(cid:45)(cid:88)(cid:81)(cid:72)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:20)(cid:24)(cid:17)(cid:3)
+(cid:3)
+36
+(cid:3)
+
+(cid:53)(cid:40)(cid:42)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:54)(cid:38)(cid:43)(cid:50)(cid:50)(cid:47)(cid:3)(cid:56)(cid:49)(cid:44)(cid:55)(cid:3)(cid:49)(cid:50)(cid:17)(cid:3)(cid:24)(cid:3)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:54)(cid:3)(cid:55)(cid:50)(cid:3)(cid:55)(cid:43)(cid:40)(cid:3)(cid:37)(cid:36)(cid:54)(cid:44)(cid:38)(cid:3)(cid:41)(cid:44)(cid:49)(cid:36)(cid:49)(cid:38)(cid:44)(cid:36)(cid:47)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:3)
+(cid:45)(cid:56)(cid:49)(cid:40)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:21)(cid:19)(cid:3)
+(cid:3)
+(cid:49)(cid:82)(cid:87)(cid:72)(cid:3)(cid:20)(cid:19)(cid:29)(cid:3) (cid:50)(cid:87)(cid:75)(cid:72)(cid:85)(cid:3)(cid:51)(cid:82)(cid:86)(cid:87)(cid:16)(cid:40)(cid:80)(cid:83)(cid:79)(cid:82)(cid:92)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:37)(cid:72)(cid:81)(cid:72)(cid:73)(cid:76)(cid:87)(cid:86)(cid:3)(cid:51)(cid:79)(cid:68)(cid:81)(cid:86)(cid:3)(cid:11)(cid:38)(cid:82)(cid:81)(cid:87)(cid:76)(cid:81)(cid:88)(cid:72)(cid:71)(cid:12)(cid:3)
+(cid:3)
+Discount Rate
+(cid:3)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:3)(cid:88)(cid:86)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:87)(cid:82)(cid:87)(cid:68)(cid:79)(cid:3)(cid:50)(cid:51)(cid:40)(cid:37)(cid:3)(cid:79)(cid:76)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:87)(cid:92)(cid:3)(cid:90)(cid:68)(cid:86)(cid:3)(cid:22)(cid:17)(cid:24)(cid:19)(cid:8)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:80)(cid:17)(cid:3)(cid:54)(cid:76)(cid:81)(cid:70)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:79)(cid:68)(cid:81)(cid:3)(cid:76)(cid:86)(cid:3)(cid:83)(cid:68)(cid:92)(cid:3)(cid:68)(cid:86)(cid:3)(cid:92)(cid:82)(cid:88)(cid:3)(cid:74)(cid:82)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:76)(cid:86)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)
+(cid:73)(cid:88)(cid:81)(cid:71)(cid:72)(cid:71)(cid:15)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:3)(cid:90)(cid:68)(cid:86)(cid:3)(cid:69)(cid:68)(cid:86)(cid:72)(cid:71)(cid:3)(cid:88)(cid:83)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:37)(cid:82)(cid:81)(cid:71)(cid:3)(cid:37)(cid:88)(cid:92)(cid:72)(cid:85)(cid:3)(cid:21)(cid:19)(cid:16)(cid:37)(cid:82)(cid:81)(cid:71)(cid:3)(cid:42)(cid:50)(cid:3)(cid:44)(cid:81)(cid:71)(cid:72)(cid:91)(cid:17)(cid:3)(cid:55)(cid:75)(cid:76)(cid:86)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:86)(cid:86)(cid:88)(cid:80)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:68)(cid:81)(cid:3)(cid:76)(cid:81)(cid:71)(cid:72)(cid:91)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:3)
+(cid:73)(cid:82)(cid:85)(cid:3)(cid:21)(cid:19)(cid:16)(cid:92)(cid:72)(cid:68)(cid:85)(cid:15)(cid:3)(cid:87)(cid:68)(cid:91)(cid:16)(cid:72)(cid:91)(cid:72)(cid:80)(cid:83)(cid:87)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:82)(cid:69)(cid:79)(cid:76)(cid:74)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:80)(cid:88)(cid:81)(cid:76)(cid:70)(cid:76)(cid:83)(cid:68)(cid:79)(cid:3)(cid:69)(cid:82)(cid:81)(cid:71)(cid:86)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:68)(cid:81)(cid:3)(cid:68)(cid:89)(cid:72)(cid:85)(cid:68)(cid:74)(cid:72)(cid:3)(cid:85)(cid:68)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:82)(cid:73)(cid:3)(cid:36)(cid:36)(cid:18)(cid:36)(cid:68)(cid:3)(cid:82)(cid:85)(cid:3)(cid:75)(cid:76)(cid:74)(cid:75)(cid:72)(cid:85)(cid:17)(cid:3)
+(cid:3)
+Sensitivity of the Total Health OPEB Liability to Changes in the Discount Rate
+(cid:3)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:76)(cid:81)(cid:74)(cid:3)(cid:83)(cid:85)(cid:72)(cid:86)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:53)(cid:54)(cid:56)(cid:182)(cid:86)(cid:3)(cid:87)(cid:82)(cid:87)(cid:68)(cid:79)(cid:3)(cid:43)(cid:72)(cid:68)(cid:79)(cid:87)(cid:75)(cid:3)(cid:50)(cid:51)(cid:40)(cid:37)(cid:3)(cid:79)(cid:76)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:87)(cid:92)(cid:3)(cid:70)(cid:68)(cid:79)(cid:70)(cid:88)(cid:79)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:88)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:22)(cid:17)(cid:24)(cid:19)(cid:8)(cid:15)(cid:3)(cid:68)(cid:86)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:68)(cid:86)(cid:3)
+(cid:90)(cid:75)(cid:68)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:53)(cid:54)(cid:56)(cid:182)(cid:86)(cid:3)(cid:87)(cid:82)(cid:87)(cid:68)(cid:79)(cid:3)(cid:50)(cid:51)(cid:40)(cid:37)(cid:3)(cid:79)(cid:76)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:87)(cid:92)(cid:3)(cid:90)(cid:82)(cid:88)(cid:79)(cid:71)(cid:3)(cid:69)(cid:72)(cid:3)(cid:76)(cid:73)(cid:3)(cid:76)(cid:87)(cid:3)(cid:90)(cid:72)(cid:85)(cid:72)(cid:3)(cid:70)(cid:68)(cid:79)(cid:70)(cid:88)(cid:79)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:88)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:68)(cid:3)(cid:71)(cid:76)(cid:86)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:76)(cid:86)(cid:3)(cid:20)(cid:3)(cid:83)(cid:72)(cid:85)(cid:70)(cid:72)(cid:81)(cid:87)(cid:68)(cid:74)(cid:72)(cid:16)(cid:83)(cid:82)(cid:76)(cid:81)(cid:87)(cid:3)(cid:79)(cid:82)(cid:90)(cid:72)(cid:85)(cid:3)
+(cid:11)(cid:21)(cid:17)(cid:27)(cid:26)(cid:8)(cid:12)(cid:3)(cid:82)(cid:85)(cid:3)(cid:20)(cid:3)(cid:83)(cid:72)(cid:85)(cid:70)(cid:72)(cid:81)(cid:87)(cid:68)(cid:74)(cid:72)(cid:16)(cid:83)(cid:82)(cid:76)(cid:81)(cid:87)(cid:3)(cid:75)(cid:76)(cid:74)(cid:75)(cid:72)(cid:85)(cid:3)(cid:11)(cid:23)(cid:17)(cid:27)(cid:26)(cid:8)(cid:12)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:70)(cid:88)(cid:85)(cid:85)(cid:72)(cid:81)(cid:87)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:29)(cid:3)
+(cid:3)
+(cid:38)(cid:88)(cid:85)(cid:85)(cid:72)(cid:81)(cid:87)(cid:3)
+(cid:20)(cid:8)(cid:3)(cid:39)(cid:72)(cid:70)(cid:85)(cid:72)(cid:68)(cid:86)(cid:72)(cid:3) (cid:39)(cid:76)(cid:86)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:3)(cid:53)(cid:68)(cid:87)(cid:72)(cid:3) (cid:20)(cid:8)(cid:3)(cid:44)(cid:81)(cid:70)(cid:85)(cid:72)(cid:68)(cid:86)(cid:72)(cid:3)
+(cid:11)(cid:21)(cid:17)(cid:24)(cid:19)(cid:8)(cid:12) (cid:11)(cid:22)(cid:17)(cid:24)(cid:19)(cid:8)(cid:12) (cid:11)(cid:23)(cid:17)(cid:24)(cid:19)(cid:8)(cid:12)
+(cid:55)(cid:82)(cid:87)(cid:68)(cid:79)(cid:3)(cid:50)(cid:51)(cid:40)(cid:37)(cid:3)(cid:47)(cid:76)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:87)(cid:92) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:15)(cid:28)(cid:27)(cid:22)(cid:15)(cid:20)(cid:28)(cid:20) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:15)(cid:20)(cid:20)(cid:20)(cid:15)(cid:25)(cid:26)(cid:22) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:15)(cid:23)(cid:20)(cid:24)(cid:15)(cid:21)(cid:21)(cid:28)
+(cid:3)
+(cid:3)
+Sensitivity of the Total OPEB Liability to Changes in the Healthcare Cost Trend Rates
+(cid:3)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:76)(cid:81)(cid:74)(cid:3)(cid:83)(cid:85)(cid:72)(cid:86)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:53)(cid:54)(cid:56)(cid:182)(cid:86)(cid:3)(cid:87)(cid:82)(cid:87)(cid:68)(cid:79)(cid:3)(cid:50)(cid:51)(cid:40)(cid:37)(cid:3)(cid:79)(cid:76)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:87)(cid:92)(cid:3)(cid:70)(cid:68)(cid:79)(cid:70)(cid:88)(cid:79)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:88)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:75)(cid:72)(cid:68)(cid:79)(cid:87)(cid:75)(cid:70)(cid:68)(cid:85)(cid:72)(cid:3)(cid:70)(cid:82)(cid:86)(cid:87)(cid:3)(cid:87)(cid:85)(cid:72)(cid:81)(cid:71)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:86)(cid:15)(cid:3)(cid:68)(cid:86)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:68)(cid:86)(cid:3)(cid:90)(cid:75)(cid:68)(cid:87)(cid:3)
+(cid:87)(cid:75)(cid:72)(cid:3)(cid:53)(cid:54)(cid:56)(cid:182)(cid:86)(cid:3)(cid:87)(cid:82)(cid:87)(cid:68)(cid:79)(cid:3)(cid:50)(cid:51)(cid:40)(cid:37)(cid:3)(cid:79)(cid:76)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:87)(cid:92)(cid:3)(cid:90)(cid:82)(cid:88)(cid:79)(cid:71)(cid:3)(cid:69)(cid:72)(cid:3)(cid:76)(cid:73)(cid:3)(cid:76)(cid:87)(cid:3)(cid:90)(cid:72)(cid:85)(cid:72)(cid:3)(cid:70)(cid:68)(cid:79)(cid:70)(cid:88)(cid:79)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:88)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:75)(cid:72)(cid:68)(cid:79)(cid:87)(cid:75)(cid:70)(cid:68)(cid:85)(cid:72)(cid:3)(cid:70)(cid:82)(cid:86)(cid:87)(cid:3)(cid:87)(cid:85)(cid:72)(cid:81)(cid:71)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:86)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:20)(cid:3)(cid:83)(cid:72)(cid:85)(cid:70)(cid:72)(cid:81)(cid:87)(cid:68)(cid:74)(cid:72)(cid:16)(cid:3)
+(cid:83)(cid:82)(cid:76)(cid:81)(cid:87)(cid:3)(cid:79)(cid:82)(cid:90)(cid:72)(cid:85)(cid:3)(cid:82)(cid:85)(cid:3)(cid:20)(cid:3)(cid:83)(cid:72)(cid:85)(cid:70)(cid:72)(cid:81)(cid:87)(cid:68)(cid:74)(cid:72)(cid:16)(cid:83)(cid:82)(cid:76)(cid:81)(cid:87)(cid:3)(cid:75)(cid:76)(cid:74)(cid:75)(cid:72)(cid:85)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:70)(cid:88)(cid:85)(cid:85)(cid:72)(cid:81)(cid:87)(cid:3)(cid:75)(cid:72)(cid:68)(cid:79)(cid:87)(cid:75)(cid:70)(cid:68)(cid:85)(cid:72)(cid:3)(cid:70)(cid:82)(cid:86)(cid:87)(cid:3)(cid:87)(cid:85)(cid:72)(cid:81)(cid:71)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:86)(cid:29)(cid:3)
+(cid:3)
+(cid:43)(cid:72)(cid:68)(cid:79)(cid:87)(cid:75)(cid:70)(cid:68)(cid:85)(cid:72)(cid:3)
+(cid:38)(cid:82)(cid:86)(cid:87)(cid:3)(cid:55)(cid:85)(cid:72)(cid:81)(cid:71)(cid:3)
+(cid:20)(cid:8)(cid:3)(cid:39)(cid:72)(cid:70)(cid:85)(cid:72)(cid:68)(cid:86)(cid:72) (cid:53)(cid:68)(cid:87)(cid:72)(cid:86) (cid:20)(cid:8)(cid:3)(cid:44)(cid:81)(cid:70)(cid:85)(cid:72)(cid:68)(cid:86)(cid:72)
+(cid:55)(cid:82)(cid:87)(cid:68)(cid:79)(cid:3)(cid:50)(cid:51)(cid:40)(cid:37)(cid:3)(cid:47)(cid:76)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:87)(cid:92) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:15)(cid:22)(cid:22)(cid:20)(cid:15)(cid:22)(cid:19)(cid:24) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:15)(cid:20)(cid:20)(cid:20)(cid:15)(cid:25)(cid:26)(cid:22) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:15)(cid:19)(cid:28)(cid:25)(cid:15)(cid:21)(cid:27)(cid:22)
+(cid:3)
+(cid:3)
+(cid:3)
+37
+(cid:3)
+
+(cid:53)(cid:40)(cid:42)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:54)(cid:38)(cid:43)(cid:50)(cid:50)(cid:47)(cid:3)(cid:56)(cid:49)(cid:44)(cid:55)(cid:3)(cid:49)(cid:50)(cid:17)(cid:3)(cid:24)(cid:3)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:54)(cid:3)(cid:55)(cid:50)(cid:3)(cid:55)(cid:43)(cid:40)(cid:3)(cid:37)(cid:36)(cid:54)(cid:44)(cid:38)(cid:3)(cid:41)(cid:44)(cid:49)(cid:36)(cid:49)(cid:38)(cid:44)(cid:36)(cid:47)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:3)
+(cid:45)(cid:56)(cid:49)(cid:40)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:21)(cid:19)(cid:3)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:3)(cid:20)(cid:20)(cid:29)(cid:3) (cid:38)(cid:50)(cid:48)(cid:51)(cid:50)(cid:49)(cid:40)(cid:49)(cid:55)(cid:54)(cid:3)(cid:50)(cid:41)(cid:3)(cid:41)(cid:56)(cid:49)(cid:39)(cid:3)(cid:37)(cid:36)(cid:47)(cid:36)(cid:49)(cid:38)(cid:40)(cid:3)
+(cid:36)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:45)(cid:88)(cid:81)(cid:72)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:21)(cid:19)(cid:15)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:3)(cid:69)(cid:68)(cid:79)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:81)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:86)(cid:87)(cid:72)(cid:71)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:76)(cid:81)(cid:74)(cid:29)(cid:3)
+(cid:49)(cid:82)(cid:81)(cid:86)(cid:83)(cid:72)(cid:81)(cid:71)(cid:68)(cid:69)(cid:79)(cid:72) (cid:53)(cid:72)(cid:86)(cid:87)(cid:85)(cid:76)(cid:70)(cid:87)(cid:72)(cid:71) (cid:38)(cid:82)(cid:80)(cid:80)(cid:76)(cid:87)(cid:87)(cid:72)(cid:71) (cid:36)(cid:86)(cid:86)(cid:76)(cid:74)(cid:81)(cid:72)(cid:71) (cid:56)(cid:81)(cid:68)(cid:86)(cid:86)(cid:76)(cid:74)(cid:81)(cid:72)(cid:71)
+(cid:42)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:41)(cid:88)(cid:81)(cid:71)(cid:29)
+(cid:38)(cid:68)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:85)(cid:72)(cid:86)(cid:72)(cid:85)(cid:89)(cid:72) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3) (cid:3)(cid:16) (cid:7) (cid:16)(cid:3) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:19)(cid:19)(cid:15)(cid:20)(cid:26)(cid:24) (cid:7) (cid:3)(cid:16) (cid:7) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:41)(cid:88)(cid:72)(cid:79)(cid:3)(cid:85)(cid:72)(cid:86)(cid:72)(cid:85)(cid:89)(cid:72) (cid:3)(cid:16) (cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:20)(cid:19)(cid:19)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:36)(cid:71)(cid:88)(cid:79)(cid:87)(cid:3)(cid:40)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:16) (cid:20)(cid:20)(cid:15)(cid:20)(cid:25)(cid:20)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:56)(cid:86)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:3)(cid:69)(cid:68)(cid:79)(cid:68)(cid:81)(cid:70)(cid:72) (cid:3)(cid:16) (cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:26)(cid:23)(cid:24)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:56)(cid:81)(cid:68)(cid:86)(cid:86)(cid:76)(cid:74)(cid:81)(cid:72)(cid:71) (cid:3)(cid:16) (cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:22)(cid:19)(cid:27)(cid:15)(cid:20)(cid:26)(cid:19)
+(cid:50)(cid:87)(cid:75)(cid:72)(cid:85)(cid:3)(cid:74)(cid:82)(cid:89)(cid:72)(cid:85)(cid:81)(cid:80)(cid:72)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:86)(cid:29)
+(cid:54)(cid:83)(cid:72)(cid:70)(cid:76)(cid:68)(cid:79)(cid:3)(cid:85)(cid:72)(cid:89)(cid:72)(cid:81)(cid:88)(cid:72)(cid:86)
+(cid:44)(cid:39)(cid:40)(cid:36)(cid:3)(cid:83)(cid:85)(cid:72)(cid:86)(cid:70)(cid:75)(cid:82)(cid:82)(cid:79)(cid:3)(cid:74)(cid:85)(cid:68)(cid:81)(cid:87) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:42)(cid:72)(cid:87)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:82)(cid:3)(cid:83)(cid:85)(cid:82)(cid:73)(cid:76)(cid:70)(cid:76)(cid:72)(cid:81)(cid:70)(cid:92)(cid:3)(cid:74)(cid:85)(cid:68)(cid:81)(cid:87) (cid:3)(cid:16) (cid:20)(cid:20)(cid:15)(cid:22)(cid:22)(cid:26)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:54)(cid:87)(cid:88)(cid:71)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:86)(cid:83)(cid:76)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86) (cid:3)(cid:16) (cid:21)(cid:27)(cid:15)(cid:26)(cid:26)(cid:24)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:39)(cid:82)(cid:81)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86) (cid:3)(cid:16) (cid:23)(cid:19)(cid:15)(cid:25)(cid:27)(cid:20)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:47)(cid:82)(cid:70)(cid:68)(cid:79)(cid:3)(cid:74)(cid:85)(cid:68)(cid:81)(cid:87)(cid:86) (cid:3)(cid:16) (cid:26)(cid:25)(cid:15)(cid:26)(cid:24)(cid:19)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:40)(cid:85)(cid:68)(cid:87)(cid:72) (cid:3)(cid:16) (cid:22)(cid:28)(cid:15)(cid:28)(cid:26)(cid:20)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:55)(cid:85)(cid:68)(cid:70)(cid:78)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:73)(cid:76)(cid:72)(cid:79)(cid:71)(cid:3)(cid:68)(cid:70)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:92) (cid:3)(cid:16) (cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:20)(cid:15)(cid:24)(cid:22)(cid:21)(cid:12)
+(cid:47)(cid:68)(cid:83)(cid:87)(cid:82)(cid:83)(cid:3)(cid:83)(cid:85)(cid:82)(cid:87)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:16) (cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:20)(cid:19)(cid:15)(cid:22)(cid:20)(cid:23)(cid:12)
+(cid:54)(cid:36)(cid:48)(cid:54)(cid:43)(cid:36) (cid:3)(cid:16) (cid:20)(cid:19)(cid:20)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:48)(cid:72)(cid:81)(cid:87)(cid:82)(cid:85)(cid:76)(cid:81)(cid:74) (cid:3)(cid:16) (cid:20)(cid:19)(cid:15)(cid:23)(cid:28)(cid:26)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:39)(cid:82)(cid:79)(cid:79)(cid:68)(cid:85)(cid:86)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:86)(cid:70)(cid:75)(cid:82)(cid:79)(cid:68)(cid:85)(cid:86) (cid:3)(cid:16) (cid:20)(cid:15)(cid:27)(cid:26)(cid:28)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:76)(cid:81)(cid:74)(cid:3)(cid:68)(cid:85)(cid:87)(cid:86)(cid:3)(cid:70)(cid:72)(cid:81)(cid:87)(cid:72)(cid:85) (cid:3)(cid:16) (cid:23)(cid:21)(cid:15)(cid:27)(cid:27)(cid:19)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:54)(cid:70)(cid:75)(cid:82)(cid:82)(cid:79)(cid:3)(cid:49)(cid:88)(cid:87)(cid:85)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:23)(cid:15)(cid:25)(cid:19)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:20)(cid:23)(cid:15)(cid:25)(cid:19)(cid:25)(cid:12)
+(cid:38)(cid:82)(cid:80)(cid:80)(cid:88)(cid:81)(cid:76)(cid:87)(cid:92)(cid:3)(cid:72)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:16) (cid:20)(cid:28)(cid:21)(cid:15)(cid:23)(cid:26)(cid:21)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:36)(cid:71)(cid:88)(cid:79)(cid:87)(cid:3)(cid:72)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:16) (cid:21)(cid:26)(cid:15)(cid:19)(cid:28)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:38)(cid:68)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:83)(cid:85)(cid:82)(cid:77)(cid:72)(cid:70)(cid:87)(cid:86)
+(cid:43)(cid:76)(cid:74)(cid:75)(cid:3)(cid:86)(cid:70)(cid:75)(cid:82)(cid:82)(cid:79)(cid:3)(cid:85)(cid:72)(cid:81)(cid:82)(cid:89)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:83)(cid:85)(cid:82)(cid:77)(cid:72)(cid:70)(cid:87) (cid:3)(cid:16) (cid:26)(cid:23)(cid:15)(cid:24)(cid:22)(cid:21)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:55)(cid:85)(cid:76)(cid:16)(cid:87)(cid:82)(cid:90)(cid:81)(cid:3)(cid:87)(cid:85)(cid:68)(cid:70)(cid:78)(cid:3)(cid:9)(cid:3)(cid:73)(cid:76)(cid:72)(cid:79)(cid:71)(cid:3)(cid:83)(cid:85)(cid:82)(cid:77)(cid:72)(cid:70)(cid:87) (cid:3)(cid:16) (cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:26)(cid:19)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:55)(cid:82)(cid:87)(cid:68)(cid:79) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:23)(cid:15)(cid:25)(cid:19)(cid:25) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:24)(cid:27)(cid:15)(cid:20)(cid:21)(cid:25) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:26)(cid:19)(cid:15)(cid:20)(cid:26)(cid:24) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:26)(cid:23)(cid:24)(cid:15)(cid:19)(cid:19)(cid:19) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:21)(cid:27)(cid:20)(cid:15)(cid:26)(cid:20)(cid:27)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:3)(cid:20)(cid:21)(cid:29)(cid:3) (cid:39)(cid:40)(cid:41)(cid:44)(cid:38)(cid:44)(cid:55)(cid:3)(cid:41)(cid:56)(cid:49)(cid:39)(cid:3)(cid:37)(cid:36)(cid:47)(cid:36)(cid:49)(cid:38)(cid:40)(cid:3)
+(cid:53)(cid:54)(cid:56)(cid:3)(cid:6)(cid:24)(cid:182)(cid:86)(cid:3)(cid:54)(cid:83)(cid:72)(cid:70)(cid:76)(cid:68)(cid:79)(cid:3)(cid:53)(cid:72)(cid:89)(cid:72)(cid:81)(cid:88)(cid:72)(cid:3)(cid:55)(cid:85)(cid:68)(cid:70)(cid:78)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:41)(cid:76)(cid:72)(cid:79)(cid:71)(cid:3)(cid:36)(cid:70)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:92)(cid:3)(cid:41)(cid:88)(cid:81)(cid:71)(cid:15)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:47)(cid:68)(cid:83)(cid:87)(cid:82)(cid:83)(cid:3)(cid:51)(cid:85)(cid:82)(cid:87)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:51)(cid:85)(cid:82)(cid:74)(cid:85)(cid:68)(cid:80)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:70)(cid:68)(cid:85)(cid:85)(cid:92)(cid:76)(cid:81)(cid:74)(cid:3)(cid:73)(cid:82)(cid:85)(cid:90)(cid:68)(cid:85)(cid:71)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:3)
+(cid:71)(cid:72)(cid:73)(cid:76)(cid:70)(cid:76)(cid:87)(cid:86)(cid:3)(cid:68)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:45)(cid:88)(cid:81)(cid:72)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:21)(cid:19)(cid:17)(cid:3)(cid:55)(cid:75)(cid:72)(cid:3)(cid:47)(cid:68)(cid:83)(cid:87)(cid:82)(cid:83)(cid:3)(cid:51)(cid:85)(cid:82)(cid:87)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:51)(cid:85)(cid:82)(cid:74)(cid:85)(cid:68)(cid:80)(cid:182)(cid:86)(cid:3)(cid:71)(cid:72)(cid:73)(cid:76)(cid:70)(cid:76)(cid:87)(cid:3)(cid:90)(cid:76)(cid:79)(cid:79)(cid:3)(cid:69)(cid:72)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:73)(cid:88)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:85)(cid:68)(cid:81)(cid:86)(cid:73)(cid:72)(cid:85)(cid:86)(cid:3)
+(cid:73)(cid:85)(cid:82)(cid:80)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:17)(cid:3)(cid:55)(cid:75)(cid:72)(cid:3)(cid:38)(cid:68)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:51)(cid:85)(cid:82)(cid:77)(cid:72)(cid:70)(cid:87)(cid:86)(cid:3)(cid:55)(cid:85)(cid:76)(cid:16)(cid:55)(cid:82)(cid:90)(cid:81)(cid:3)(cid:55)(cid:85)(cid:68)(cid:70)(cid:78)(cid:3)(cid:9)(cid:3)(cid:41)(cid:76)(cid:72)(cid:79)(cid:71)(cid:3)(cid:51)(cid:85)(cid:82)(cid:77)(cid:72)(cid:70)(cid:87)(cid:182)(cid:86)(cid:3)(cid:71)(cid:72)(cid:73)(cid:76)(cid:70)(cid:76)(cid:87)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:3)(cid:69)(cid:68)(cid:79)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:90)(cid:76)(cid:79)(cid:79)(cid:3)(cid:69)(cid:72)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)
+(cid:71)(cid:82)(cid:81)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:72)(cid:70)(cid:72)(cid:76)(cid:89)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:41)(cid:60)(cid:21)(cid:19)(cid:21)(cid:20)(cid:17)(cid:3)
+38
+
+(cid:53)(cid:40)(cid:42)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:54)(cid:38)(cid:43)(cid:50)(cid:50)(cid:47)(cid:3)(cid:56)(cid:49)(cid:44)(cid:55)(cid:3)(cid:49)(cid:50)(cid:17)(cid:3)(cid:24)(cid:3)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:54)(cid:3)(cid:55)(cid:50)(cid:3)(cid:55)(cid:43)(cid:40)(cid:3)(cid:37)(cid:36)(cid:54)(cid:44)(cid:38)(cid:3)(cid:41)(cid:44)(cid:49)(cid:36)(cid:49)(cid:38)(cid:44)(cid:36)(cid:47)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:3)
+(cid:45)(cid:56)(cid:49)(cid:40)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:21)(cid:19)(cid:3)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:3)(cid:20)(cid:22)(cid:29)(cid:3) (cid:51)(cid:56)(cid:53)(cid:51)(cid:50)(cid:54)(cid:40)(cid:3)(cid:50)(cid:41)(cid:3)(cid:54)(cid:55)(cid:56)(cid:39)(cid:40)(cid:49)(cid:55)(cid:3)(cid:36)(cid:38)(cid:55)(cid:44)(cid:57)(cid:44)(cid:55)(cid:60)(cid:3)(cid:41)(cid:56)(cid:49)(cid:39)(cid:54)(cid:3)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:83)(cid:88)(cid:85)(cid:83)(cid:82)(cid:86)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:54)(cid:87)(cid:88)(cid:71)(cid:72)(cid:81)(cid:87)(cid:3)(cid:36)(cid:70)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:92)(cid:3)(cid:41)(cid:88)(cid:81)(cid:71)(cid:86)(cid:3)(cid:76)(cid:86)(cid:3)(cid:87)(cid:82)(cid:3)(cid:80)(cid:68)(cid:76)(cid:81)(cid:87)(cid:68)(cid:76)(cid:81)(cid:3)(cid:68)(cid:70)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:82)(cid:88)(cid:86)(cid:3)(cid:72)(cid:91)(cid:87)(cid:85)(cid:68)(cid:70)(cid:88)(cid:85)(cid:85)(cid:76)(cid:70)(cid:88)(cid:79)(cid:68)(cid:85)(cid:3)(cid:68)(cid:70)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:76)(cid:72)(cid:86)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)
+(cid:86)(cid:87)(cid:88)(cid:71)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:53)(cid:72)(cid:74)(cid:76)(cid:82)(cid:81)(cid:68)(cid:79)(cid:3)(cid:54)(cid:70)(cid:75)(cid:82)(cid:82)(cid:79)(cid:3)(cid:56)(cid:81)(cid:76)(cid:87)(cid:3)(cid:49)(cid:82)(cid:17)(cid:3)(cid:24)(cid:17)(cid:3)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:3)(cid:20)(cid:23)(cid:29)(cid:3) (cid:54)(cid:56)(cid:37)(cid:54)(cid:40)(cid:52)(cid:56)(cid:40)(cid:49)(cid:55)(cid:3)(cid:40)(cid:57)(cid:40)(cid:49)(cid:55)(cid:54)(cid:3)
+(cid:44)(cid:81)(cid:3)(cid:48)(cid:68)(cid:85)(cid:70)(cid:75)(cid:3)(cid:21)(cid:19)(cid:21)(cid:19)(cid:15)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:58)(cid:82)(cid:85)(cid:79)(cid:71)(cid:3)(cid:43)(cid:72)(cid:68)(cid:79)(cid:87)(cid:75)(cid:3)(cid:50)(cid:85)(cid:74)(cid:68)(cid:81)(cid:76)(cid:93)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:71)(cid:72)(cid:70)(cid:79)(cid:68)(cid:85)(cid:72)(cid:71)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:82)(cid:88)(cid:87)(cid:69)(cid:85)(cid:72)(cid:68)(cid:78)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:81)(cid:82)(cid:89)(cid:72)(cid:79)(cid:3)(cid:70)(cid:82)(cid:85)(cid:82)(cid:81)(cid:68)(cid:89)(cid:76)(cid:85)(cid:88)(cid:86)(cid:3)(cid:11)(cid:38)(cid:50)(cid:57)(cid:44)(cid:39)(cid:16)(cid:20)(cid:28)(cid:12)(cid:3)(cid:68)(cid:86)(cid:3)(cid:68)(cid:3)(cid:83)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:76)(cid:70)(cid:3)
+(cid:90)(cid:75)(cid:76)(cid:70)(cid:75)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:76)(cid:81)(cid:88)(cid:72)(cid:86)(cid:3)(cid:87)(cid:82)(cid:3)(cid:86)(cid:83)(cid:85)(cid:72)(cid:68)(cid:71)(cid:3)(cid:87)(cid:75)(cid:85)(cid:82)(cid:88)(cid:74)(cid:75)(cid:82)(cid:88)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:56)(cid:81)(cid:76)(cid:87)(cid:72)(cid:71)(cid:3)(cid:54)(cid:87)(cid:68)(cid:87)(cid:72)(cid:86)(cid:17)(cid:3)(cid:3)(cid:55)(cid:75)(cid:72)(cid:3)(cid:88)(cid:79)(cid:87)(cid:76)(cid:80)(cid:68)(cid:87)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:85)(cid:88)(cid:83)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:90)(cid:75)(cid:76)(cid:70)(cid:75)(cid:3)(cid:80)(cid:68)(cid:92)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:68)(cid:88)(cid:86)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:82)(cid:88)(cid:87)(cid:69)(cid:85)(cid:72)(cid:68)(cid:78)(cid:3)(cid:76)(cid:86)(cid:3)
+(cid:88)(cid:81)(cid:70)(cid:72)(cid:85)(cid:87)(cid:68)(cid:76)(cid:81)(cid:30)(cid:3)(cid:75)(cid:82)(cid:90)(cid:72)(cid:89)(cid:72)(cid:85)(cid:15)(cid:3)(cid:76)(cid:87)(cid:3)(cid:80)(cid:68)(cid:92)(cid:3)(cid:85)(cid:72)(cid:86)(cid:88)(cid:79)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:68)(cid:3)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:3)(cid:68)(cid:71)(cid:89)(cid:72)(cid:85)(cid:86)(cid:72)(cid:3)(cid:76)(cid:80)(cid:83)(cid:68)(cid:70)(cid:87)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:39)(cid:76)(cid:86)(cid:87)(cid:85)(cid:76)(cid:70)(cid:87)(cid:10)(cid:86)(cid:3)(cid:73)(cid:76)(cid:81)(cid:68)(cid:81)(cid:70)(cid:76)(cid:68)(cid:79)(cid:3)(cid:83)(cid:82)(cid:86)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(cid:15)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:15)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:70)(cid:68)(cid:86)(cid:75)(cid:3)
+(cid:73)(cid:79)(cid:82)(cid:90)(cid:86)(cid:15)(cid:3)(cid:71)(cid:72)(cid:83)(cid:72)(cid:81)(cid:71)(cid:76)(cid:81)(cid:74)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:88)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:72)(cid:89)(cid:72)(cid:85)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:82)(cid:88)(cid:87)(cid:69)(cid:85)(cid:72)(cid:68)(cid:78)(cid:17)(cid:3)
+(cid:48)(cid:68)(cid:76)(cid:81)(cid:72)(cid:3)(cid:39)(cid:72)(cid:83)(cid:68)(cid:85)(cid:87)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:82)(cid:73)(cid:3)(cid:40)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:75)(cid:68)(cid:86)(cid:3)(cid:68)(cid:79)(cid:79)(cid:82)(cid:70)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:7)(cid:22)(cid:17)(cid:19)(cid:24)(cid:3)(cid:80)(cid:76)(cid:79)(cid:79)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:70)(cid:82)(cid:85)(cid:82)(cid:81)(cid:68)(cid:89)(cid:76)(cid:85)(cid:88)(cid:86)(cid:3)(cid:85)(cid:72)(cid:79)(cid:76)(cid:72)(cid:73)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:86)(cid:3)(cid:87)(cid:82)(cid:3)(cid:53)(cid:54)(cid:56)(cid:3)(cid:6)(cid:24)(cid:3)(cid:76)(cid:81)(cid:3)(cid:41)(cid:60)(cid:21)(cid:19)(cid:21)(cid:19)(cid:16)(cid:21)(cid:19)(cid:21)(cid:20)(cid:3)(cid:87)(cid:82)(cid:3)
+(cid:86)(cid:88)(cid:83)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:76)(cid:80)(cid:83)(cid:79)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:86)(cid:68)(cid:73)(cid:72)(cid:74)(cid:88)(cid:68)(cid:85)(cid:71)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:68)(cid:71)(cid:71)(cid:85)(cid:72)(cid:86)(cid:86)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:72)(cid:91)(cid:87)(cid:85)(cid:68)(cid:82)(cid:85)(cid:71)(cid:76)(cid:81)(cid:68)(cid:85)(cid:92)(cid:3)(cid:70)(cid:75)(cid:68)(cid:79)(cid:79)(cid:72)(cid:81)(cid:74)(cid:72)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:86)(cid:68)(cid:73)(cid:72)(cid:79)(cid:92)(cid:3)(cid:82)(cid:83)(cid:72)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)
+(cid:86)(cid:70)(cid:75)(cid:82)(cid:82)(cid:79)(cid:86)(cid:3)(cid:71)(cid:88)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:81)(cid:71)(cid:72)(cid:80)(cid:76)(cid:70)(cid:17)(cid:3)
+(cid:44)(cid:81)(cid:3)(cid:83)(cid:85)(cid:72)(cid:83)(cid:68)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:86)(cid:72)(cid:3)(cid:73)(cid:76)(cid:81)(cid:68)(cid:81)(cid:70)(cid:76)(cid:68)(cid:79)(cid:3)(cid:86)(cid:87)(cid:68)(cid:87)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:15)(cid:3)(cid:53)(cid:54)(cid:56)(cid:3)(cid:6)(cid:24)(cid:3)(cid:75)(cid:68)(cid:86)(cid:3)(cid:72)(cid:89)(cid:68)(cid:79)(cid:88)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:72)(cid:89)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:85)(cid:68)(cid:81)(cid:86)(cid:68)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:83)(cid:82)(cid:87)(cid:72)(cid:81)(cid:87)(cid:76)(cid:68)(cid:79)(cid:3)(cid:85)(cid:72)(cid:70)(cid:82)(cid:74)(cid:81)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:85)(cid:3)
+(cid:71)(cid:76)(cid:86)(cid:70)(cid:79)(cid:82)(cid:86)(cid:88)(cid:85)(cid:72)(cid:3)(cid:87)(cid:75)(cid:85)(cid:82)(cid:88)(cid:74)(cid:75)(cid:3)(cid:39)(cid:72)(cid:70)(cid:72)(cid:80)(cid:69)(cid:72)(cid:85)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:21)(cid:19)(cid:15)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:68)(cid:87)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:73)(cid:76)(cid:81)(cid:68)(cid:81)(cid:70)(cid:76)(cid:68)(cid:79)(cid:3)(cid:86)(cid:87)(cid:68)(cid:87)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:90)(cid:72)(cid:85)(cid:72)(cid:3)(cid:68)(cid:89)(cid:68)(cid:76)(cid:79)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:76)(cid:86)(cid:86)(cid:88)(cid:72)(cid:71)(cid:17)(cid:3)
+39
+
+(cid:3)
+(cid:53)(cid:40)(cid:52)(cid:56)(cid:44)(cid:53)(cid:40)(cid:39)(cid:3)(cid:54)(cid:56)(cid:51)(cid:51)(cid:47)(cid:40)(cid:48)(cid:40)(cid:49)(cid:55)(cid:36)(cid:53)(cid:60)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)
+(cid:3)
+
+(cid:54)(cid:70)(cid:75)(cid:72)(cid:71)(cid:88)(cid:79)(cid:72)(cid:3)(cid:20)
+(cid:53)(cid:40)(cid:42)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:54)(cid:38)(cid:43)(cid:50)(cid:50)(cid:47)(cid:3)(cid:56)(cid:49)(cid:44)(cid:55)(cid:3)(cid:49)(cid:50)(cid:17)(cid:3)(cid:24)
+(cid:37)(cid:56)(cid:39)(cid:42)(cid:40)(cid:55)(cid:36)(cid:53)(cid:60)(cid:3)(cid:38)(cid:50)(cid:48)(cid:51)(cid:36)(cid:53)(cid:44)(cid:54)(cid:50)(cid:49)(cid:3)(cid:54)(cid:38)(cid:43)(cid:40)(cid:39)(cid:56)(cid:47)(cid:40)
+(cid:37)(cid:56)(cid:39)(cid:42)(cid:40)(cid:55)(cid:3)(cid:36)(cid:49)(cid:39)(cid:3)(cid:36)(cid:38)(cid:55)(cid:56)(cid:36)(cid:47)(cid:3)(cid:16)(cid:3)(cid:42)(cid:40)(cid:49)(cid:40)(cid:53)(cid:36)(cid:47)(cid:3)(cid:41)(cid:56)(cid:49)(cid:39)(cid:3)(cid:16)(cid:3)(cid:37)(cid:56)(cid:39)(cid:42)(cid:40)(cid:55)(cid:36)(cid:53)(cid:60)(cid:3)(cid:37)(cid:36)(cid:54)(cid:44)(cid:54)
+(cid:60)(cid:40)(cid:36)(cid:53)(cid:3)(cid:40)(cid:49)(cid:39)(cid:40)(cid:39)(cid:3)(cid:45)(cid:56)(cid:49)(cid:40)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:21)(cid:19)
+(cid:57)(cid:68)(cid:85)(cid:76)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)
+(cid:50)(cid:85)(cid:76)(cid:74)(cid:76)(cid:81)(cid:68)(cid:79)(cid:3) (cid:51)(cid:82)(cid:86)(cid:76)(cid:87)(cid:76)(cid:89)(cid:72)(cid:3)
+(cid:37)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87) (cid:41)(cid:76)(cid:81)(cid:68)(cid:79)(cid:3)(cid:37)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87) (cid:36)(cid:70)(cid:87)(cid:88)(cid:68)(cid:79) (cid:11)(cid:49)(cid:72)(cid:74)(cid:68)(cid:87)(cid:76)(cid:89)(cid:72)(cid:12)
+(cid:53)(cid:40)(cid:57)(cid:40)(cid:49)(cid:56)(cid:40)(cid:54)(cid:29)
+(cid:55)(cid:82)(cid:90)(cid:81)(cid:3)(cid:68)(cid:86)(cid:86)(cid:72)(cid:86)(cid:86)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:11)(cid:76)(cid:81)(cid:70)(cid:79)(cid:88)(cid:71)(cid:72)(cid:86)(cid:3)(cid:68)(cid:71)(cid:88)(cid:79)(cid:87)
+(cid:3)(cid:3)(cid:72)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:7)(cid:20)(cid:20)(cid:21)(cid:15)(cid:19)(cid:19)(cid:19)(cid:12) (cid:7)(cid:3)(cid:3)(cid:21)(cid:26)(cid:15)(cid:20)(cid:23)(cid:28)(cid:15)(cid:23)(cid:21)(cid:25) (cid:7)(cid:3)(cid:3)(cid:21)(cid:26)(cid:15)(cid:20)(cid:23)(cid:28)(cid:15)(cid:23)(cid:21)(cid:25) (cid:7)(cid:3)(cid:3)(cid:21)(cid:26)(cid:15)(cid:20)(cid:23)(cid:28)(cid:15)(cid:23)(cid:21)(cid:25) (cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:54)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3)(cid:86)(cid:75)(cid:68)(cid:85)(cid:72)(cid:71)(cid:3)(cid:85)(cid:72)(cid:89)(cid:72)(cid:81)(cid:88)(cid:72)(cid:86)(cid:29)
+(cid:3)(cid:3)(cid:42)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:15)(cid:21)(cid:22)(cid:26)(cid:15)(cid:22)(cid:25)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:15)(cid:21)(cid:22)(cid:26)(cid:15)(cid:22)(cid:25)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:15)(cid:21)(cid:22)(cid:26)(cid:15)(cid:22)(cid:25)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:3)(cid:3)(cid:54)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3)(cid:68)(cid:74)(cid:72)(cid:81)(cid:70)(cid:92)(cid:3)(cid:70)(cid:79)(cid:76)(cid:72)(cid:81)(cid:87) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:19)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:19)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:27)(cid:20)(cid:15)(cid:27)(cid:21)(cid:23) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:3)(cid:20)(cid:15)(cid:27)(cid:21)(cid:23)
+(cid:3)(cid:3)(cid:48)(cid:72)(cid:71)(cid:76)(cid:70)(cid:68)(cid:76)(cid:71)(cid:3)(cid:53)(cid:72)(cid:76)(cid:80)(cid:69)(cid:88)(cid:85)(cid:86)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:19)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:19)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:24)(cid:19)(cid:15)(cid:19)(cid:19)(cid:19)(cid:12)
+(cid:3)(cid:3)(cid:36)(cid:71)(cid:88)(cid:79)(cid:87)(cid:3)(cid:72)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:86)(cid:88)(cid:69)(cid:86)(cid:76)(cid:71)(cid:92) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:23)(cid:15)(cid:23)(cid:25)(cid:21) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:23)(cid:15)(cid:23)(cid:25)(cid:21) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:24)(cid:15)(cid:19)(cid:26)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:21)(cid:28)(cid:15)(cid:22)(cid:27)(cid:25)(cid:12)
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:15)(cid:22)(cid:27)(cid:20)(cid:15)(cid:27)(cid:22)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:15)(cid:22)(cid:27)(cid:20)(cid:15)(cid:27)(cid:22)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:15)(cid:22)(cid:23)(cid:23)(cid:15)(cid:21)(cid:25)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:22)(cid:26)(cid:15)(cid:24)(cid:25)(cid:21)(cid:12)
+(cid:38)(cid:75)(cid:68)(cid:85)(cid:74)(cid:72)(cid:86)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:54)(cid:72)(cid:85)(cid:89)(cid:76)(cid:70)(cid:72)(cid:86)(cid:3)(cid:16)(cid:3)(cid:36)(cid:71)(cid:88)(cid:79)(cid:87)(cid:3)(cid:40)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:50)(cid:87)(cid:75)(cid:72)(cid:85)(cid:29)
+(cid:3)(cid:3)(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:72)(cid:86)(cid:87)(cid:3)(cid:72)(cid:68)(cid:85)(cid:81)(cid:76)(cid:81)(cid:74)(cid:86) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:28)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:28)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:20)(cid:15)(cid:23)(cid:21)(cid:27) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:21)(cid:15)(cid:23)(cid:21)(cid:27)
+(cid:3)(cid:3)(cid:48)(cid:76)(cid:86)(cid:70)(cid:72)(cid:79)(cid:79)(cid:68)(cid:81)(cid:72)(cid:82)(cid:88)(cid:86) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:19)(cid:19)(cid:15)(cid:24)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:19)(cid:19)(cid:15)(cid:24)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:23)(cid:28)(cid:15)(cid:26)(cid:28)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:3)(cid:28)(cid:15)(cid:21)(cid:28)(cid:20)
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:20)(cid:28)(cid:15)(cid:24)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:20)(cid:28)(cid:15)(cid:24)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:27)(cid:20)(cid:15)(cid:21)(cid:20)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:3)(cid:20)(cid:15)(cid:26)(cid:20)(cid:28)
+(cid:55)(cid:50)(cid:55)(cid:36)(cid:47)(cid:3)(cid:53)(cid:40)(cid:57)(cid:40)(cid:49)(cid:56)(cid:40)(cid:54) (cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:22)(cid:15)(cid:25)(cid:24)(cid:19)(cid:15)(cid:26)(cid:24)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:22)(cid:15)(cid:25)(cid:24)(cid:19)(cid:15)(cid:26)(cid:24)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:22)(cid:15)(cid:25)(cid:26)(cid:23)(cid:15)(cid:28)(cid:20)(cid:23) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:23)(cid:15)(cid:20)(cid:24)(cid:26)
+(cid:40)(cid:59)(cid:51)(cid:40)(cid:49)(cid:39)(cid:44)(cid:55)(cid:56)(cid:53)(cid:40)(cid:54)(cid:16)(cid:37)(cid:60)(cid:3)(cid:41)(cid:56)(cid:49)(cid:38)(cid:55)(cid:44)(cid:50)(cid:49)(cid:54)(cid:29)
+(cid:54)(cid:87)(cid:88)(cid:71)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:87)(cid:68)(cid:73)(cid:73)(cid:3)(cid:86)(cid:88)(cid:83)(cid:83)(cid:82)(cid:85)(cid:87) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:15)(cid:24)(cid:25)(cid:26)(cid:15)(cid:24)(cid:25)(cid:23) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:15)(cid:24)(cid:25)(cid:26)(cid:15)(cid:24)(cid:25)(cid:23) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:15)(cid:22)(cid:20)(cid:22)(cid:15)(cid:27)(cid:24)(cid:24) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:24)(cid:22)(cid:15)(cid:26)(cid:19)(cid:28)
+(cid:54)(cid:70)(cid:75)(cid:82)(cid:82)(cid:79)(cid:3)(cid:68)(cid:71)(cid:80)(cid:76)(cid:81)(cid:76)(cid:86)(cid:87)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:25)(cid:20)(cid:26)(cid:15)(cid:28)(cid:21)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:25)(cid:22)(cid:26)(cid:15)(cid:28)(cid:21)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:25)(cid:22)(cid:25)(cid:15)(cid:20)(cid:19)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:15)(cid:27)(cid:20)(cid:28)
+(cid:41)(cid:68)(cid:70)(cid:76)(cid:79)(cid:76)(cid:87)(cid:76)(cid:72)(cid:86)(cid:3)(cid:80)(cid:68)(cid:76)(cid:81)(cid:87)(cid:72)(cid:81)(cid:68)(cid:81)(cid:70)(cid:72) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:15)(cid:26)(cid:27)(cid:24)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:15)(cid:26)(cid:27)(cid:24)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:15)(cid:26)(cid:25)(cid:21)(cid:15)(cid:21)(cid:26)(cid:23) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:21)(cid:15)(cid:26)(cid:21)(cid:25)
+(cid:38)(cid:68)(cid:85)(cid:72)(cid:72)(cid:85)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:72)(cid:70)(cid:75)(cid:81)(cid:76)(cid:70)(cid:68)(cid:79)(cid:3)(cid:72)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:28)(cid:28)(cid:15)(cid:23)(cid:20)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:28)(cid:28)(cid:15)(cid:23)(cid:20)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:28)(cid:28)(cid:15)(cid:23)(cid:20)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:38)(cid:85)(cid:82)(cid:86)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:74)(cid:88)(cid:68)(cid:85)(cid:71) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:23)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:23)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:15)(cid:23)(cid:19)(cid:19)
+(cid:53)(cid:72)(cid:74)(cid:88)(cid:79)(cid:68)(cid:85)(cid:3)(cid:76)(cid:81)(cid:86)(cid:87)(cid:85)(cid:88)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:23)(cid:15)(cid:21)(cid:20)(cid:27)(cid:15)(cid:21)(cid:21)(cid:23) (cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:23)(cid:15)(cid:20)(cid:24)(cid:25)(cid:15)(cid:21)(cid:23)(cid:22) (cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:22)(cid:15)(cid:28)(cid:20)(cid:24)(cid:15)(cid:28)(cid:25)(cid:24) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:23)(cid:19)(cid:15)(cid:21)(cid:26)(cid:27)
+(cid:50)(cid:87)(cid:75)(cid:72)(cid:85)(cid:3)(cid:76)(cid:81)(cid:86)(cid:87)(cid:85)(cid:88)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:27)(cid:21)(cid:28)(cid:15)(cid:21)(cid:22)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:27)(cid:21)(cid:28)(cid:15)(cid:21)(cid:22)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:26)(cid:23)(cid:15)(cid:19)(cid:28)(cid:24) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:24)(cid:24)(cid:15)(cid:20)(cid:23)(cid:21)
+(cid:54)(cid:92)(cid:86)(cid:87)(cid:72)(cid:80)(cid:3)(cid:68)(cid:71)(cid:80)(cid:76)(cid:81)(cid:76)(cid:86)(cid:87)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:28)(cid:24)(cid:19)(cid:15)(cid:19)(cid:28)(cid:27) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:28)(cid:24)(cid:19)(cid:15)(cid:19)(cid:28)(cid:27) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:27)(cid:26)(cid:25)(cid:15)(cid:21)(cid:22)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:26)(cid:3)(cid:22)(cid:15)(cid:27)(cid:25)(cid:26)
+(cid:55)(cid:85)(cid:68)(cid:81)(cid:86)(cid:83)(cid:82)(cid:85)(cid:87)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:86)(cid:72)(cid:85)(cid:89)(cid:76)(cid:70)(cid:72)(cid:86) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:24)(cid:22)(cid:22)(cid:15)(cid:24)(cid:24)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:24)(cid:22)(cid:22)(cid:15)(cid:24)(cid:24)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:22)(cid:25)(cid:19)(cid:15)(cid:28)(cid:26)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:26)(cid:21)(cid:15)(cid:24)(cid:27)(cid:19)
+(cid:39)(cid:72)(cid:69)(cid:87)(cid:3)(cid:86)(cid:72)(cid:85)(cid:89)(cid:76)(cid:70)(cid:72) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:24)(cid:27)(cid:20)(cid:15)(cid:26)(cid:24)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:24)(cid:27)(cid:20)(cid:15)(cid:26)(cid:24)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:24)(cid:27)(cid:20)(cid:15)(cid:26)(cid:24)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:54)(cid:83)(cid:72)(cid:70)(cid:76)(cid:68)(cid:79)(cid:3)(cid:72)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:86)(cid:72)(cid:85)(cid:89)(cid:76)(cid:70)(cid:72)(cid:86) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:15)(cid:24)(cid:28)(cid:21)(cid:15)(cid:27)(cid:26)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:15)(cid:24)(cid:28)(cid:21)(cid:15)(cid:27)(cid:26)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:15)(cid:20)(cid:22)(cid:19)(cid:15)(cid:19)(cid:25)(cid:27) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:3)(cid:25)(cid:21)(cid:15)(cid:27)(cid:19)(cid:28)
+(cid:50)(cid:87)(cid:75)(cid:72)(cid:85)(cid:3)(cid:82)(cid:88)(cid:87)(cid:79)(cid:68)(cid:92)(cid:86)(cid:29)
+(cid:38)(cid:68)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:76)(cid:80)(cid:83)(cid:85)(cid:82)(cid:89)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:73)(cid:88)(cid:72)(cid:79)(cid:3)(cid:72)(cid:91)(cid:83)(cid:72)(cid:81)(cid:86)(cid:72)(cid:86) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)(cid:3) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:36)(cid:71)(cid:88)(cid:79)(cid:87)(cid:3)(cid:72)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:25)(cid:25)(cid:15)(cid:23)(cid:25)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:25)(cid:25)(cid:15)(cid:23)(cid:25)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:23)(cid:22)(cid:15)(cid:20)(cid:26)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:22)(cid:15)(cid:21)(cid:28)(cid:19)
+(cid:55)(cid:50)(cid:55)(cid:36)(cid:47)(cid:3)(cid:40)(cid:59)(cid:51)(cid:40)(cid:49)(cid:39)(cid:44)(cid:55)(cid:56)(cid:53)(cid:40)(cid:54)(cid:16)(cid:37)(cid:60)(cid:3)(cid:41)(cid:56)(cid:49)(cid:38)(cid:55)(cid:44)(cid:50)(cid:49) (cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:22)(cid:15)(cid:28)(cid:23)(cid:22)(cid:15)(cid:24)(cid:20)(cid:21) (cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:22)(cid:15)(cid:28)(cid:19)(cid:20)(cid:15)(cid:24)(cid:22)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:21)(cid:15)(cid:23)(cid:28)(cid:22)(cid:15)(cid:28)(cid:20)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:15)(cid:23)(cid:19)(cid:26)(cid:15)(cid:25)(cid:21)(cid:19)
+(cid:40)(cid:59)(cid:38)(cid:40)(cid:54)(cid:54)(cid:3)(cid:50)(cid:41)(cid:3)(cid:53)(cid:40)(cid:57)(cid:40)(cid:49)(cid:56)(cid:40)(cid:54)(cid:3)(cid:50)(cid:57)(cid:40)(cid:53)(cid:3)(cid:11)(cid:56)(cid:49)(cid:39)(cid:40)(cid:53)(cid:12)
+(cid:40)(cid:59)(cid:51)(cid:40)(cid:49)(cid:39)(cid:44)(cid:55)(cid:56)(cid:53)(cid:40)(cid:54) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:21)(cid:28)(cid:21)(cid:15)(cid:26)(cid:24)(cid:24)(cid:12) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:11)(cid:21)(cid:24)(cid:19)(cid:15)(cid:26)(cid:26)(cid:23)(cid:12) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:20)(cid:27)(cid:20)(cid:15)(cid:19)(cid:19)(cid:22) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:15)(cid:23)(cid:22)(cid:20)(cid:15)(cid:26)(cid:26)(cid:26)
+40
+
+Schedule 1 (Continued)
+REGIONAL SCHOOL UNIT NO. 5
+BUDGETARY COMPARISON SCHEDULE
+BUDGET AND ACTUAL - GENERAL FUND - BUDGETARY BASIS
+YEAR ENDED JUNE 30, 2020
+Variance
+Original Positive
+Budget Final Budget Actual (Negative)
+EXCESS OF REVENUES OVER (UNDER)
+EXPENDITURES $ (292,755) $ (250,774) $ 1,181,003 $ 1,431,777
+OTHER FINANCING SOURCES (USES):
+Gain on sale of assets - - 1,200 1,200
+Transfer out to track and field reserve (35,000) (35,000) (70,000) (35,000)
+Transfer out to school lunch program (268,245) (310,226) (310,226) -
+TOTAL OTHER FINANCING
+SOURCES (USES) (303,245) (345,226) (379,026) (33,800)
+BUDGETARY SURPLUS (DEFICIT) $ (596,000) $ (596,000) $ 801,977 $ 1,397,977
+COMPONENTS OF THE SCHOOL'S
+BUDGETARY SURPLUS (DEFICIT)
+Restricted
+Adult Education $ - $ - $ (6,095)
+Assigned
+Use of fund balance (596,000) (596,000) 149,000
+Unassigned - - 659,072
+$ (596,000) $ (596,000) $ 801,977
+41
+The Accompanying Notes are an Integral Part of these Statements.
+
+2
+eludehcS
+5 .ON
+TINU
+LOOHCS
+LANOIGER
+YTILIBAIL
+NOISNEP
+TEN
+EHT
+FO
+ERAHS
+ETANOITROPORP
+S'TCIRTSID
+EHT
+FO
+ELUDEHCS
+NALP
+REHCAET
+DNA
+EEYOLPME
+ETATS
+SREPENIAM
+500ST
+:DI
+REYOLPME
+* sraeY
+neveS
+tsaL
+eht
+roF
+s'5#
+USR
+etanoitroporp
+s'etatS
+yraicudif
+nalP
+ten
+eht
+fo
+erahs
+etanoitroporp
+s'5#
+USR
+s'5#
+USR
+a
+sa
+noitisop
+ten
+ytilibail
+noisnep
+s'5#
+USR
+ten
+eht
+fo
+erahs
+etanoitroporp
+fo
+noitroporp
+fo
+egatnecrep
+fo
+egatnecrep
+a
+sa
+-derevoc
+ytilibail
+noisnep
+ten
+eht
+fo
+erahs
+ten
+eht
+raeY
+lacsiF
+noisnep
+latot
+eht
+-derevoc
+sti
+eeyolpme
+htiw
+detaicossa
+noisnep
+noisnep
+dednE
+ytilibail
+lloryap
+eeyolpme
+lloryap
+latoT
+5#
+USR
+ytilibail
+ytilibail
+03
+enuJ
+%37.28
+%74.1
+884,636,51
+$
+362,439,71
+$
+967,307,71
+$
+494,032
+$
+%427510.0
+9102
+%09.28
+%31.1
+696,488,41
+425,903,61
+569,041,61
+955,861
+%194210.0
+8102
+%87.08
+%89.0
+287,161,41
+855,710,71
+921,878,61
+924,931
+%995900.0
+7102
+%12.67
+%30.1
+764,648,31
+890,770,81
+362,439,71
+538,241
+%680800.0
+6102
+%81.18
+%40.1
+493,993,21
+690,106,41
+975,174,41
+715,921
+%395900.0
+5102
+%19.38
+%79.0
+381,063,21
+175,958,11
+006,937,11
+179,911
+%501110.0
+4102
+%58.67
+%04.2
+089,825,11
+403,184,5
+023,402,5
+489,672
+%224710.0
+3102
+.detacidni
+raey
+eht
+fo
+ht03
+enuJ
+fo
+etad
+tnemerusaem
+a
+evah
+detneserp
+stnuoma
+ehT
+*
+.sraey
+net rof
+noitamrofni
+wohs
+ot
+dednetni
+si
+eludehcs
+sihT
+s'tcirtsiD
+eht ecnis
+sraey
+esoht
+ot elbatubirtta
+si detneserp
+atad
+ehT
+.4102
+,03
+enuJ
+dedne
+raey
+lacsif
+eht
+;noitatnemelpmi
+86
+BSAG
+fo
+raey
+tsrif
+.elbaliava
+semoceb
+noitamrofni
+wen
+sa yllaunna
+detadpu
+eb
+lliw
+eludehcs
+ehT
+.stnemetatS
+eseht
+fo
+traP
+largetnI
+na
+era
+setoN
+gniynapmoccA
+ehT
+42
+
+Schedule 3
+REGIONAL SCHOOL UNIT NO. 5
+SCHEDULE OF THE DISTRICT'S EMPLOYER CONTRIBUTIONS
+MAINEPERS STATE EMPLOYEE AND TEACHER PLAN
+EMPLOYER ID: TS005
+For the Last Seven Fiscal Years *
+RSU #5's
+contributions in RSU #5's
+relation to the RSU #5's RSU #5's contributions as a
+Fiscal Year Contractually contractually contribution covered- percentage of its
+Ended required required deficiency employee covered-employee
+June 30 contributions contributions (excess) payroll payroll
+2019 $ 645,671 $ 645,671 $ - $ 15,636,488 4.13%
+2018 590,922 590,922 - 14,884,696 3.97%
+2017 488,206 488,206 - 14,161,782 3.45%
+2016 477,559 477,559 - 13,846,467 3.45%
+2015 343,962 343,962 - 12,399,394 2.77%
+2014 341,412 341,412 - 12,360,183 2.76%
+2013 12,187 12,187 - 11,528,980 0.11%
+* The amounts presented have a measurement date of June 30th of the year indicated.
+This schedule is intended to show information for ten years.
+The data presented is attributable to those years since the District's
+first year of GASB 68 implementation; the fiscal year ended June 30, 2014.
+The schedule will be updated annually as new information becomes available.
+43
+The Accompanying Notes are an Integral Part of these Statements.
+
+Schedule 4
+REGIONAL SCHOOL UNIT NO. 5
+SCHEDULE OF THE DISTRICT'S PROPORTIONATE SHARE OF THE NET PENSION LIABILITY
+MAINEPERS PARTICIPATING LOCAL DISTRICT CONSOLIDATED PLAN
+EMPLOYER ID: P0325
+For the Last Seven Fiscal Years *
+RSU #5's
+proportionate
+RSU #5's RSU #5's share of the net Plan fiduciary
+proportion of proportionate RSU #5's pension liability net position as a
+Fiscal Year the net share of the net covered- as a percentage of percentage of
+Ended pension pension employee its covered- the total pension
+June 30 liability liability payroll employee payroll liability
+2019 0.011300% $ 34,537 $ 69,124 49.96% 90.62%
+2018 0.009047% 24,760 52,313 47.33% 91.14%
+2017 0.009263% 37,930 49,975 75.90% 86.43%
+2016 0.010962% 58,244 57,802 100.76% 81.61%
+2015 0.011198% 35,724 58,682 60.88% 88.27%
+2014 0.014247% 21,923 71,615 30.61% 94.10%
+2013 0.010374% 31,979 57,711 55.41% 87.50%
+* The amounts presented have a measurement date of June 30th of the year indicated.
+This schedule is intended to show information for ten years.
+The data presented is attributable to those years since the District's
+first year of GASB 68 implementation; the fiscal year ended June 30, 2014.
+The schedule will be updated annually as new information becomes available.
+44
+The Accompanying Notes are an Integral Part of these Statements.
+
+Schedule 5
+REGIONAL SCHOOL UNIT NO. 5
+SCHEDULE OF THE DISTRICT'S EMPLOYER CONTRIBUTIONS
+MAINEPERS PARTICIPATING LOCAL DISTRICT CONSOLIDATED PLAN
+EMPLOYER ID: P0325
+For the Last Seven Years *
+RSU #5's
+contributions in RSU #5's
+relation to the RSU #5's RSU #5's contributions as a
+Fiscal Year Contractually contractually contribution covered- percentage of its
+Ended required required deficiency employee covered-employee
+June 30 contributions contributions (excess) payroll payroll
+2019 $ 6,912 $ 6,912 $ - $ 69,124 10.00%
+2018 5,022 5,022 - 52,313 9.60%
+2017 4,748 4,748 - 49,975 9.50%
+2016 5,144 5,144 - 57,802 8.90%
+2015 4,577 4,577 - 58,682 7.80%
+2014 4,655 4,655 - 71,615 6.50%
+2013 3,059 3,059 - 57,711 5.30%
+* The amounts presented have a measurement date of June 30th of the year indicated.
+This schedule is intended to show information for ten years.
+The data presented is attributable to those years since the District's
+first year of GASB 68 implementation; the fiscal year ended June 30, 2014.
+The schedule will be updated annually as new information becomes available.
+45
+The Accompanying Notes are an Integral Part of these Statements.
+
+6
+eludehcS
+5 .ON
+TINU
+LOOHCS
+LANOIGER
+YTILIBAIL
+BEPO
+TEN
+EHT
+FO ERAHS
+ETANOITROPORP
+S'TCIRTSID
+EHT
+FO
+ELUDEHCS
+NALP
+BEPO
+ECNARUSNI
+EFIL
+PUORG
+SREPENIAM
+500ST
+:DI
+REYOLPME
+* sraeY
+eerhT
+tsaL
+eht
+roF
+s'5#
+USR
+etanoitroporp
+s'etatS
+yraicudif
+nalP
+ten
+eht
+fo
+erahs
+etanoitroporp
+s'5#
+USR
+a sa
+noitisop
+ten
+sa
+ytilibail
+BEPO
+s'5#
+USR
+ten
+eht fo erahs
+s'5#
+USR
+fo
+noitroporp
+fo
+egatnecrep
+sti
+fo
+egatnecrep
+a
+-derevoc
+ytilibail
+BEPO
+etanoitroporp
+ten
+eht
+raeY
+lacsiF
+BEPO
+latot
+eht
+eeyolpme-derevoc
+eeyolpme
+htiw
+detaicossa
+ten eht
+fo
+erahs
+BEPO
+dednE
+ytilibail
+lloryap
+lloryap
+latoT
+5# USR
+ytilibail
+BEPO
+ytilibail
+03
+enuJ
+%22.94
+%00.0
+884,636,51
+$
+700,863
+$
+700,863
+$
+-
+$
+%00.0
+9102
+%40.84
+%00.0
+696,488,41
+187,543
+187,543
+-
+%00.0
+8102
+%92.74
+%00.0
+287,161,41
+766,413
+766,413
+-
+%00.0
+7102
+.detacidni
+raey
+eht
+fo
+ht03
+enuJ
+fo
+etad
+tnemerusaem
+a evah
+detneserp
+stnuoma
+ehT
+*
+.sraey
+net rof
+noitamrofni
+wohs
+ot
+dednetni
+si eludehcs
+sihT
+s'tcirtsiD
+eht ecnis
+sraey
+esoht
+ot elbatubirtta
+si detneserp
+atad
+ehT
+.8102
+,03
+enuJ
+dedne
+raey
+lacsif
+eht
+;noitatnemelpmi
+57 BSAG
+fo
+raey
+tsrif
+.elbaliava
+semoceb
+noitamrofni
+wen
+sa yllaunna
+detadpu
+eb
+lliw
+eludehcs
+ehT
+.stnemetatS
+eseht
+fo
+traP
+largetnI
+na
+era
+setoN
+gniynapmoccA
+ehT
+46
+
+Schedule 7
+REGIONAL SCHOOL UNIT NO. 5
+SCHEDULE OF CHANGES IN THE THE DISTRICT'S TOTAL HEALTH PLAN
+OPEB LIABILITY AND RELATED RATIOS
+MAINE EDUCATION ASSOCIATION BENEFITS TRUST HEALTH INSURANCE OPEB PLAN
+For the Two Years *
+2019 2018
+A Service cost $ 51,685 $ 54,674
+B Interest 183,097 174,430
+C Benefit term changes - -
+D Experience differences - -
+E Assumption changes 275,638 (215,005)
+F Benefit payments (155,027) (149,669)
+G Net change 355,393 (135,570)
+H Beginning liability 4,756,280 4,891,850
+I Ending liability $ 5,111,673 $ 4,756,280
+J Covered payroll $ 13,663,820 $ 13,298,122
+K Payroll percentage 37.4% 35.8%
+A Service cost related to the District
+B Interest, which includes interest on service cost
+C Changes in the Plan's benefit terms
+D Differences between expected and actual experience
+E Changes of assumptions
+F Benefit payments, including refunds of member contributions
+G Net change in total OPEB liability (sum of A through F)
+H Total OPEB liability at the beginning of the fiscal year.
+I Total OPEB liability at the end of the fiscal year.
+J Covered-employee payroll
+K Total OPEB liability as a percentage of covered-employee payroll.
+* The amounts presented have a measurement date of June 30th of the year indicated.
+This schedule is intended to show information for ten years.
+The data presented is attributable to those years since the District's
+first year of GASB 75 implementation; the fiscal year ended June 30, 2019.
+The schedule will be updated annually as new information becomes available.
+47
+The Accompanying Notes are an Integral Part of these Statements.
+
+(cid:53)(cid:40)(cid:42)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:54)(cid:38)(cid:43)(cid:50)(cid:50)(cid:47)(cid:3)(cid:56)(cid:49)(cid:44)(cid:55)(cid:3)(cid:49)(cid:50)(cid:17)(cid:3)(cid:24)(cid:3)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:54)(cid:3)(cid:55)(cid:50)(cid:3)(cid:55)(cid:43)(cid:40)(cid:3)(cid:53)(cid:40)(cid:52)(cid:56)(cid:44)(cid:53)(cid:40)(cid:39)(cid:3)(cid:54)(cid:56)(cid:51)(cid:51)(cid:47)(cid:40)(cid:48)(cid:40)(cid:49)(cid:55)(cid:36)(cid:53)(cid:60)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)
+(cid:45)(cid:56)(cid:49)(cid:40)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:20)(cid:28)(cid:3)
+(cid:3)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:3)(cid:20)(cid:29)(cid:3) (cid:54)(cid:56)(cid:48)(cid:48)(cid:36)(cid:53)(cid:60)(cid:3)(cid:50)(cid:41)(cid:3)(cid:54)(cid:44)(cid:42)(cid:49)(cid:44)(cid:41)(cid:44)(cid:38)(cid:36)(cid:49)(cid:55)(cid:3)(cid:36)(cid:38)(cid:38)(cid:50)(cid:56)(cid:49)(cid:55)(cid:44)(cid:49)(cid:42)(cid:3)(cid:51)(cid:50)(cid:47)(cid:44)(cid:38)(cid:44)(cid:40)(cid:54)(cid:3)
+(cid:3)
+(cid:37)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87)(cid:68)(cid:85)(cid:92)(cid:3)(cid:36)(cid:70)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)
+(cid:3)
+(cid:37)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:68)(cid:71)(cid:82)(cid:83)(cid:87)(cid:72)(cid:71)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:3)(cid:82)(cid:81)(cid:79)(cid:92)(cid:17)(cid:3)(cid:3)(cid:41)(cid:82)(cid:85)(cid:80)(cid:68)(cid:79)(cid:3)(cid:69)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87)(cid:68)(cid:85)(cid:92)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:74)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:76)(cid:86)(cid:3)(cid:72)(cid:80)(cid:83)(cid:79)(cid:82)(cid:92)(cid:72)(cid:71)(cid:3)(cid:68)(cid:86)(cid:3)(cid:68)(cid:3)(cid:80)(cid:68)(cid:81)(cid:68)(cid:74)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:82)(cid:79)(cid:3)
+(cid:71)(cid:72)(cid:89)(cid:76)(cid:70)(cid:72)(cid:3)(cid:71)(cid:88)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:92)(cid:72)(cid:68)(cid:85)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:17)(cid:3)(cid:3)(cid:55)(cid:75)(cid:72)(cid:3)(cid:69)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87)(cid:3)(cid:76)(cid:86)(cid:3)(cid:83)(cid:85)(cid:72)(cid:86)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:80)(cid:82)(cid:71)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:68)(cid:70)(cid:70)(cid:85)(cid:88)(cid:68)(cid:79)(cid:3)(cid:69)(cid:68)(cid:86)(cid:76)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:70)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:90)(cid:75)(cid:76)(cid:70)(cid:75)(cid:3)
+(cid:76)(cid:86)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:86)(cid:87)(cid:72)(cid:81)(cid:87)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:79)(cid:92)(cid:3)(cid:68)(cid:70)(cid:70)(cid:72)(cid:83)(cid:87)(cid:72)(cid:71)(cid:3)(cid:68)(cid:70)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:83)(cid:85)(cid:76)(cid:81)(cid:70)(cid:76)(cid:83)(cid:79)(cid:72)(cid:86)(cid:17)(cid:3)(cid:36)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:68)(cid:85)(cid:76)(cid:86)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:69)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87)(cid:3)(cid:87)(cid:82)(cid:3)(cid:68)(cid:70)(cid:87)(cid:88)(cid:68)(cid:79)(cid:3)(cid:76)(cid:86)(cid:3)(cid:83)(cid:85)(cid:72)(cid:86)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:86)(cid:72)(cid:3)
+(cid:73)(cid:76)(cid:81)(cid:68)(cid:81)(cid:70)(cid:76)(cid:68)(cid:79)(cid:3)(cid:86)(cid:87)(cid:68)(cid:87)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:17)(cid:3)(cid:3)
+(cid:3)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:3)(cid:21)(cid:29)(cid:3) (cid:53)(cid:40)(cid:38)(cid:50)(cid:49)(cid:38)(cid:44)(cid:47)(cid:44)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:50)(cid:41)(cid:3)(cid:37)(cid:56)(cid:39)(cid:42)(cid:40)(cid:55)(cid:36)(cid:53)(cid:60)(cid:3)(cid:57)(cid:54)(cid:17)(cid:3)(cid:41)(cid:56)(cid:49)(cid:39)(cid:3)(cid:41)(cid:44)(cid:49)(cid:36)(cid:49)(cid:38)(cid:44)(cid:36)(cid:47)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:3)
+(cid:3)
+(cid:36)(cid:86)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:79)(cid:92)(cid:3)(cid:68)(cid:70)(cid:70)(cid:72)(cid:83)(cid:87)(cid:72)(cid:71)(cid:3)(cid:68)(cid:70)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:83)(cid:85)(cid:76)(cid:81)(cid:70)(cid:76)(cid:83)(cid:79)(cid:72)(cid:86)(cid:3)(cid:11)(cid:42)(cid:36)(cid:36)(cid:51)(cid:12)(cid:15)(cid:3)(cid:53)(cid:54)(cid:56)(cid:3)(cid:6)(cid:24)(cid:3)(cid:75)(cid:68)(cid:86)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:72)(cid:71)(cid:3)(cid:68)(cid:3)(cid:85)(cid:72)(cid:89)(cid:72)(cid:81)(cid:88)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:91)(cid:83)(cid:72)(cid:81)(cid:71)(cid:76)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)
+(cid:48)(cid:68)(cid:76)(cid:81)(cid:72)(cid:3)(cid:54)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3)(cid:53)(cid:72)(cid:87)(cid:76)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:76)(cid:69)(cid:88)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:80)(cid:82)(cid:88)(cid:81)(cid:87)(cid:3)(cid:82)(cid:73)(cid:3)(cid:7)(cid:21)(cid:15)(cid:19)(cid:19)(cid:27)(cid:15)(cid:19)(cid:28)(cid:24)(cid:3)(cid:80)(cid:68)(cid:71)(cid:72)(cid:3)(cid:69)(cid:92)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:54)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:48)(cid:68)(cid:76)(cid:81)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:69)(cid:72)(cid:75)(cid:68)(cid:79)(cid:73)(cid:3)(cid:82)(cid:73)(cid:3)(cid:3)
+(cid:53)(cid:54)(cid:56)(cid:3)(cid:6)(cid:24)(cid:17)(cid:3)(cid:54)(cid:76)(cid:81)(cid:70)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:80)(cid:82)(cid:88)(cid:81)(cid:87)(cid:3)(cid:75)(cid:68)(cid:86)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:69)(cid:72)(cid:72)(cid:81)(cid:3)(cid:69)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87)(cid:72)(cid:71)(cid:15)(cid:3)(cid:87)(cid:75)(cid:72)(cid:85)(cid:72)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:3)(cid:71)(cid:76)(cid:73)(cid:73)(cid:72)(cid:85)(cid:72)(cid:81)(cid:70)(cid:72)(cid:3)(cid:76)(cid:81)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:82)(cid:81)(cid:3)(cid:68)(cid:3)(cid:69)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87)(cid:68)(cid:85)(cid:92)(cid:3)(cid:69)(cid:68)(cid:86)(cid:76)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:70)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)
+(cid:89)(cid:86)(cid:17)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:88)(cid:81)(cid:71)(cid:72)(cid:85)(cid:3)(cid:68)(cid:70)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:83)(cid:85)(cid:76)(cid:81)(cid:70)(cid:76)(cid:83)(cid:79)(cid:72)(cid:86)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:79)(cid:92)(cid:3)(cid:68)(cid:70)(cid:70)(cid:72)(cid:83)(cid:87)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:56)(cid:81)(cid:76)(cid:87)(cid:72)(cid:71)(cid:3)(cid:54)(cid:87)(cid:68)(cid:87)(cid:72)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:36)(cid:80)(cid:72)(cid:85)(cid:76)(cid:70)(cid:68)(cid:17)(cid:3)(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:80)(cid:82)(cid:88)(cid:81)(cid:87)(cid:3)(cid:75)(cid:68)(cid:86)(cid:3)(cid:69)(cid:72)(cid:72)(cid:81)(cid:3)
+(cid:76)(cid:81)(cid:70)(cid:79)(cid:88)(cid:71)(cid:72)(cid:71)(cid:3)(cid:68)(cid:86)(cid:3)(cid:68)(cid:81)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:74)(cid:82)(cid:89)(cid:72)(cid:85)(cid:81)(cid:80)(cid:72)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:85)(cid:72)(cid:89)(cid:72)(cid:81)(cid:88)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:91)(cid:83)(cid:72)(cid:81)(cid:71)(cid:76)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:42)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:41)(cid:88)(cid:81)(cid:71)(cid:3)(cid:82)(cid:81)(cid:3)(cid:54)(cid:87)(cid:68)(cid:87)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:24)(cid:17)(cid:3)(cid:55)(cid:75)(cid:72)(cid:85)(cid:72)(cid:3)(cid:76)(cid:86)(cid:3)(cid:81)(cid:82)(cid:3)(cid:72)(cid:73)(cid:73)(cid:72)(cid:70)(cid:87)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)
+(cid:73)(cid:88)(cid:81)(cid:71)(cid:3)(cid:69)(cid:68)(cid:79)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:68)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:72)(cid:81)(cid:71)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:92)(cid:72)(cid:68)(cid:85)(cid:17)(cid:3)
+(cid:3)
+(cid:38)(cid:68)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:79)(cid:72)(cid:68)(cid:86)(cid:72)(cid:3)(cid:83)(cid:85)(cid:82)(cid:70)(cid:72)(cid:72)(cid:71)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:91)(cid:83)(cid:72)(cid:81)(cid:71)(cid:76)(cid:87)(cid:88)(cid:85)(cid:72)(cid:86)(cid:3)(cid:75)(cid:68)(cid:89)(cid:72)(cid:3)(cid:69)(cid:72)(cid:72)(cid:81)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:72)(cid:71)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:42)(cid:36)(cid:36)(cid:51)(cid:3)(cid:86)(cid:87)(cid:68)(cid:87)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:69)(cid:88)(cid:87)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:69)(cid:88)(cid:71)(cid:74)(cid:72)(cid:87)(cid:68)(cid:85)(cid:92)(cid:3)(cid:69)(cid:68)(cid:86)(cid:76)(cid:86)(cid:3)
+(cid:86)(cid:87)(cid:68)(cid:87)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:17)(cid:3)(cid:3)(cid:55)(cid:75)(cid:72)(cid:85)(cid:72)(cid:3)(cid:76)(cid:86)(cid:3)(cid:81)(cid:82)(cid:3)(cid:72)(cid:73)(cid:73)(cid:72)(cid:70)(cid:87)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:73)(cid:88)(cid:81)(cid:71)(cid:3)(cid:69)(cid:68)(cid:79)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:68)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:72)(cid:81)(cid:71)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:92)(cid:72)(cid:68)(cid:85)(cid:17)(cid:3)
+(cid:3)
+(cid:42)(cid:85)(cid:68)(cid:81)(cid:87)(cid:3)(cid:83)(cid:85)(cid:

@@ -1,0 +1,609 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/8c4d9330-54d1-433b-a37b-3d2ea3e30d71
+SECTION: /budget/financial-statements
+TITLE: Grant Reporting
+TYPE: Finalsite-PDF
+============================================================
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2000.0000.0000.41920.000 Donations - Revenue $0.00 $0.00 $0.00 $0.00 ($535.57) $535.57 $0.00 $535.57 0.00%
+2000.0000.0000.45000.000 Carry Foward - Donations $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2000.0000.0000.51010.000 Teacher Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2000.0000.0000.51020.000 Ed Tech Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2000.0000.0000.52010.000 Teacher Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2000.0000.0000.52020.000 Ed Tech Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2000.0000.0000.52320.000 Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $0.00 ($535.57) $535.57 $0.00 $535.57 0.00%
+2000.1100.1000.53000.950 Contracted Services $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2000.1100.1000.56000.950 Supplies $0.00 $3,000.00 $3,000.00 $0.00 $524.00 $2,476.00 $0.00 $2,476.00 82.53%
+2000.1100.1000.57300.950 Equipment $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: ELEMENTARY PROGRAMS - 1100 $0.00 $3,000.00 $3,000.00 $0.00 $524.00 $2,476.00 $0.00 $2,476.00 82.53%
+Fund: DONATIONS - 2000 $0.00 $3,000.00 $3,000.00 $0.00 ($11.57) $3,011.57 $0.00 $3,011.57 100.39%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 1
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2010.0000.0000.41920.000 MLTI DEVICE PROTECTION PLAN $0.00 $0.00 $0.00 ($374.12) ($21,206.43) $21,206.43 $0.00 $21,206.43 0.00%
+- REVENUE
+2010.0000.0000.45000.000 Carry Forward - Laptop Funds $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2010.0000.2230.54320.900 Contracted Services $0.00 $0.00 $0.00 $921.36 $4,793.38 ($4,793.38) $0.00 ($4,793.38) 0.00%
+2010.0000.2230.56000.900 Supplies $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2010.0000.2230.57300.900 Equipment $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $547.24 ($16,413.05) $16,413.05 $0.00 $16,413.05 0.00%
+Fund: TECHNOLOGY - MLTI DEVICE PROTECTION PLAN - 2010 $0.00 $0.00 $0.00 $547.24 ($16,413.05) $16,413.05 $0.00 $16,413.05 0.00%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 2
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2150.0000.0000.41900.000 Aspirations Revenue $0.00 $0.00 $0.00 ($0.18) ($1.62) $1.62 $0.00 $1.62 0.00%
+2150.0000.0000.45000.000 Carry Foward - Aspirations $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.0000.0000.51010.000 Teacher Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.0000.0000.51020.000 Ed Tech Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.0000.0000.52010.000 Teacher Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.0000.0000.52020.000 Ed Tech Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.0000.0000.52320.000 Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 ($0.18) ($1.62) $1.62 $0.00 $1.62 0.00%
+2150.1100.1000.56000.950 Supplies $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.1100.1000.57340.950 Equipment $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: ELEMENTARY PROGRAMS - 1100 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.1200.1000.51500.990 Student Aspirations Stipends $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.1200.1000.52000.990 Student Aspirations Stipend $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Benefits
+2150.1200.1000.53300.990 Contracted Services $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.1200.1000.56000.990 Supplies $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2150.1200.1000.57340.990 Equipment $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: SECONDARY PROGRAMS - 1200 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Fund: STUDENT ASPIRATIONS - 2150 $0.00 $0.00 $0.00 ($0.18) ($1.62) $1.62 $0.00 $1.62 0.00%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 3
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2170.0000.0000.41920.000 PAC - Revenue $0.00 $0.00 $0.00 ($400.00) ($6,834.00) $6,834.00 $0.00 $6,834.00 0.00%
+2170.0000.0000.45000.000 Carry Foward - PAC $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2170.0000.0000.45203.000 TRANSFERS IN $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 ($400.00) ($6,834.00) $6,834.00 $0.00 $6,834.00 0.00%
+2170.8900.0000.51010.900 Teacher Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2170.8900.0000.51020.900 Tech Salaries $0.00 $0.00 $0.00 $519.57 $519.57 ($519.57) $0.00 ($519.57) 0.00%
+2170.8900.0000.52010.900 Teacher Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2170.8900.0000.52020.900 Tech Benefits $0.00 $0.00 $0.00 $40.99 $40.99 ($40.99) $0.00 ($40.99) 0.00%
+2170.8900.0000.52320.900 Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2170.8900.0000.53000.900 Contracted Services $0.00 $0.00 $0.00 $110.00 $990.00 ($990.00) $110.00 ($1,100.00) 0.00%
+2170.8900.0000.56000.900 Supplies $0.00 $3,345.09 $3,345.09 $76.71 $4,136.70 ($791.61) $0.00 ($791.61) -23.66%
+2170.8900.0000.57300.900 Equipment $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: Other Community Service - 8900 $0.00 $3,345.09 $3,345.09 $747.27 $5,687.26 ($2,342.17) $110.00 ($2,452.17) -73.31%
+Fund: PERFORMING ARTS CENTER - 2170 $0.00 $3,345.09 $3,345.09 $347.27 ($1,146.74) $4,491.83 $110.00 $4,381.83 130.99%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 4
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2300.0000.0000.44517.000 Title I Revenue $0.00 $0.00 $0.00 ($60,608.10) ($60,708.10) $60,708.10 $0.00 $60,708.10 0.00%
+2300.0000.0000.45000.000 Carry Foward Title IA $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 ($60,608.10) ($60,708.10) $60,708.10 $0.00 $60,708.10 0.00%
+2300.1100.1000.51010.950 Teacher Salaries $0.00 $188,375.96 $188,375.96 $21,735.69 $119,402.12 $68,973.84 $72,452.28 ($3,478.44) -1.85%
+2300.1100.1000.51020.950 Ed Tech Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2300.1100.1000.52010.950 Teacher Benefits $0.00 $0.00 $0.00 $3,755.55 $19,970.03 ($19,970.03) $11,494.62 ($31,464.65) 0.00%
+2300.1100.1000.52020.950 Ed Tech Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2300.1100.1000.52310.950 MEPERS Fed Retirement $0.00 $0.00 $0.00 $843.96 $18,488.38 ($18,488.38) $3,253.32 ($21,741.70) 0.00%
+2300.1100.1000.52320.950 MEPERS Fed Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2300.1100.1000.53000.950 Title I- Contracted Services $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2300.1100.1000.55810.950 Travel $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2300.1100.1000.56000.950 Supplies $0.00 $7,915.16 $7,915.16 $159.60 $159.60 $7,755.56 $0.00 $7,755.56 97.98%
+Program: ELEMENTARY PROGRAMS - 1100 $0.00 $196,291.12 $196,291.12 $26,494.80 $158,020.13 $38,270.99 $87,200.22 ($48,929.23) -24.93%
+Fund: TITLE 1A - 2300 $0.00 $196,291.12 $196,291.12 ($34,113.30) $97,312.03 $98,979.09 $87,200.22 $11,778.87 6.00%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 5
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2470.0000.0000.45000.000 Carry Foward Local Entitlement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.0000.2130.51010.010 LE NURSE - DCS $0.00 $0.00 $0.00 $2,645.15 $2,645.15 ($2,645.15) $7.38 ($2,652.53) 0.00%
+2470.0000.2130.51010.030 LE NURSE - PES $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.0000.2130.52010.010 LE NURSE BENEFITS - DCS $0.00 $0.00 $0.00 $1,153.57 $1,153.57 ($1,153.57) $0.11 ($1,153.68) 0.00%
+2470.0000.2130.52010.030 LE NURSE BENEFITS - PES $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.0000.2130.52310.010 LE NURSE RETIREMENT - DCS $0.00 $0.00 $0.00 $495.44 $495.44 ($495.44) $1.38 ($496.82) 0.00%
+2470.0000.2130.52310.030 LE NURSE RETIREMENT - PES $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.0000.2750.51020.950 LE ELEM ET Transportation $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $22.86 ($22.86) 0.00%
+2470.0000.2750.52020.950 LE ELEM ET Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $4.00 ($4.00) 0.00%
+Transportation
+2470.0000.2750.52320.950 LE ELEM ET Retire Transportation $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $4.28 ($4.28) 0.00%
+2470.0000.2750.55100.900 LE DIST Trans Svcs $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.0000.2750.55100.950 LE ELEM OOD Trans Svcs $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.0000.2750.55100.990 LE SEC OOD Trans Svcs $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $4,294.16 $4,294.16 ($4,294.16) $40.01 ($4,334.17) 0.00%
+2470.2100.0000.44562.000 Local Entitlement - Revenue $0.00 $0.00 $0.00 ($58,810.33) ($103,494.78) $103,494.78 $0.00 $103,494.78 0.00%
+2470.2100.1000.51010.950 Teacher Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2100.1000.51020.950 Ed Tech Salaries $0.00 $218,592.67 $218,592.67 $20,176.18 $124,590.16 $94,002.51 $43,946.03 $50,056.48 22.90%
+2470.2100.1000.52010.950 Teacher Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2100.1000.52020.950 Ed Tech Benefits $0.00 $48,895.87 $48,895.87 $4,109.82 $25,258.65 $23,637.22 $4,946.48 $18,690.74 38.23%
+2470.2100.1000.52080.950 Support Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2100.1000.52310.950 MPERS Teacher Fed Retire $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2100.1000.52320.950 MPERS ET Fed Retire $0.00 $19,878.53 $19,878.53 $3,120.00 $19,495.31 $383.22 $6,814.07 ($6,430.85) -32.35%
+2470.2100.1000.52380.950 MPERS Support Fed Retire $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2100.1000.53300.950 LE Reg Classroom Prof Dev - $0.00 $2,165.00 $2,165.00 $279.00 $1,947.00 $218.00 $279.00 ($61.00) -2.82%
+ELEM
+2470.2100.1000.53300.990 LE Reg Classroom Prof Dev - SEC $0.00 $0.00 $0.00 $218.99 $218.99 ($218.99) $218.99 ($437.98) 0.00%
+2470.2100.1000.53440.950 LE ELEM Contracted Svcs $0.00 $19,195.00 $19,195.00 $6,473.17 $34,658.79 ($15,463.79) $3,307.23 ($18,771.02) -97.79%
+2470.2100.1000.53440.990 LE SEC Contracted Svcs $0.00 $0.00 $0.00 $0.00 $3,117.88 ($3,117.88) $0.00 ($3,117.88) 0.00%
+2470.2100.1000.56000.950 LE ELEM Supplies $0.00 $0.00 $0.00 $0.00 $172.51 ($172.51) $0.00 ($172.51) 0.00%
+2470.2100.1000.56000.990 LE SEC Supplies $0.00 $0.00 $0.00 $0.00 $69.95 ($69.95) $0.00 ($69.95) 0.00%
+2470.2100.1000.56100.950 LE ELEM Instructional Supplies $0.00 $51,285.00 $51,285.00 $1,632.43 $22,400.76 $28,884.24 $1,737.82 $27,146.42 52.93%
+2470.2100.1000.56100.990 LE SEC Instructional Supplies $0.00 $4,000.00 $4,000.00 $2,473.23 $3,256.28 $743.72 $2,617.73 ($1,874.01) -46.85%
+2470.2100.1000.57300.950 LE ELEM Equipment $0.00 $0.00 $0.00 $987.50 $987.50 ($987.50) $987.50 ($1,975.00) 0.00%
+2470.2100.1000.57300.990 LE SEC Equipment $0.00 $1,500.00 $1,500.00 $3,231.98 $4,106.97 ($2,606.97) $2,526.99 ($5,133.96) -342.26%
+2470.2100.2750.52320.950 MSRFEDRET $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 6
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+Program: REGULAR CLASSROOM PLACEMENT - 2100 $0.00 $365,512.07 $365,512.07 ($16,108.03) $136,785.97 $228,726.10 $67,381.84 $161,344.26 44.14%
+2470.2300.1000.51020.020 Salaries Paid to Instructional Aides $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+or Assistants
+2470.2300.1000.51020.950 Salaries Paid to Instructional Aides $0.00 $0.00 $0.00 $4,701.89 $9,700.31 ($9,700.31) $11,908.74 ($21,609.05) 0.00%
+or Assistants
+2470.2300.1000.52020.950 Employee Benefits for Aides or $0.00 $0.00 $0.00 $2,384.04 $4,185.41 ($4,185.41) $4,832.61 ($9,018.02) 0.00%
+Assistants
+2470.2300.1000.52320.950 Retirement Instructional Aides or $0.00 $0.00 $0.00 $447.17 $831.52 ($831.52) $1,189.82 ($2,021.34) 0.00%
+Assistants
+2470.2300.1000.55610.950 Tuition Paid to Public Schools in $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+State - ELEM
+2470.2300.1000.55610.990 Tuition Paid to Public Schools in $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+State - SEC
+2470.2300.1000.55620.950 Tuition Pd to Pub School Units $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Outside State ELEM
+2470.2300.1000.55620.990 Tuition Pd to Pub School Units $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Outside State SEC
+2470.2300.1000.55630.950 Tuition Paid to Private Schools - $0.00 $141,740.00 $141,740.00 $0.00 $56,248.00 $85,492.00 $0.00 $85,492.00 60.32%
+ELEM
+2470.2300.1000.55630.990 Tuition Paid to Private Schools - $0.00 $56,475.00 $56,475.00 $0.00 $25,238.00 $31,237.00 $0.00 $31,237.00 55.31%
+SEC
+Program: SELF CONTAINED CLASS PLACEMENT - 2300 $0.00 $198,215.00 $198,215.00 $7,533.10 $96,203.24 $102,011.76 $17,931.17 $84,080.59 42.42%
+2470.2500.2330.51180.900 LE DIST Support Wages $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2500.2330.51180.950 LE ELEM Support Wages $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2500.2330.52080.900 LE DIST Support Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2500.2330.52080.950 LE ELEM Support Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2500.2330.52380.900 LE DIST FEDMAINEPERS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2500.2330.52380.950 LE ELEM MSRSFEDRET $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2500.2330.53200.900 LE DIST Contracted Services $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2500.2330.55610.990 LE SEC PUB TUIT $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2500.2330.55630.950 No Longer Used $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2500.2330.55630.990 LE SEC PRI TUIT $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: ADMINISTRATION - 2500 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2110.53440.950 Social Work Purchased Services $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2140.51010.950 Psych Services - Teacher Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2140.52010.950 Pysch Services Teacher Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2140.52310.950 MEPERS Fed Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2140.53440.950 Psych Services - Contracted $0.00 $39,514.00 $39,514.00 $5,952.60 $28,825.42 $10,688.58 $5,240.10 $5,448.48 13.79%
+Services
+2470.2800.2140.55350.900 Online Subscription - Psych $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2140.56000.950 Psych Services Supplies $0.00 $6,000.00 $6,000.00 $450.00 $1,399.36 $4,600.64 $1,336.30 $3,264.34 54.41%
+2470.2800.2150.51010.950 Teacher Salaries-Speech $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2150.52010.950 Speech Teacher Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2150.52310.950 Speech Teacher Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 7
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2470.2800.2150.53440.950 Speech/ Language Purchased $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Services
+2470.2800.2150.55800.950 Speech Travel $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2160.53440.950 OT Purchased Sevices $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2170.53440.950 PT Purchased Services $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2470.2800.2180.53440.950 Visual Services Purchased Services $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: OTHER SPECIAL PROGRAMS - 2800 $0.00 $45,514.00 $45,514.00 $6,402.60 $30,224.78 $15,289.22 $6,576.40 $8,712.82 19.14%
+Fund: LOCAL ENTITLEMENT - 2470 $0.00 $609,241.07 $609,241.07 $2,121.83 $267,508.15 $341,732.92 $91,929.42 $249,803.50 41.00%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 8
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2480.0000.2130.51010.010 Salaries Paid to Professionals $0.00 $0.00 $0.00 $1,337.34 $8,997.49 ($8,997.49) $13,373.35 ($22,370.84) 0.00%
+2480.0000.2130.52010.010 Employee Benefits for Professionals $0.00 $0.00 $0.00 $656.65 $3,772.61 ($3,772.61) $6,566.51 ($10,339.12) 0.00%
+2480.0000.2130.52310.010 Retirement - Professionals $0.00 $0.00 $0.00 $250.48 $597.04 ($597.04) $2,504.80 ($3,101.84) 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $2,244.47 $13,367.14 ($13,367.14) $22,444.66 ($35,811.80) 0.00%
+2480.2200.1000.51010.020 Salaries Paid to Professionals $0.00 $0.00 $0.00 $4,540.00 $4,540.00 ($4,540.00) $22,881.62 ($27,421.62) 0.00%
+2480.2200.1000.52010.020 Employee Benefits for Professionals $0.00 $0.00 $0.00 $711.67 $711.67 ($711.67) $2,548.76 ($3,260.43) 0.00%
+2480.2200.1000.52310.020 Retirement - Professionals $0.00 $0.00 $0.00 $850.34 $850.34 ($850.34) $5,595.28 ($6,445.62) 0.00%
+Program: RESOURCE CLASSROOM PLACEMENT - 2200 $0.00 $0.00 $0.00 $6,102.01 $6,102.01 ($6,102.01) $31,025.66 ($37,127.67) 0.00%
+2480.2300.1000.55630.950 Tuition to Private Schools $0.00 $60,384.91 $60,384.91 $10,592.00 $10,592.00 $49,792.91 $6,951.00 $42,841.91 70.95%
+2480.2300.1000.55630.990 Tuition to Private Schools $0.00 $15,000.00 $15,000.00 $5,634.00 $5,634.00 $9,366.00 $0.00 $9,366.00 62.44%
+Program: SELF CONTAINED CLASS PLACEMENT - 2300 $0.00 $75,384.91 $75,384.91 $16,226.00 $16,226.00 $59,158.91 $6,951.00 $52,207.91 69.26%
+Fund: ARP - LE - 2480 $0.00 $75,384.91 $75,384.91 $24,572.48 $35,695.15 $39,689.76 $60,421.32 ($20,731.56) -27.50%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 9
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2605.0000.0000.44531.000 ESSERF FUNDS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.0000.0000.59995.000 MSRS ON HALF PAYMENTS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.0000.1000.53000.950 Purchased Professional $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.0000.2120.51010.010 ESSERF Counselor Salaries DCS $0.00 $0.00 $0.00 $60.00 $60.00 ($60.00) $0.00 ($60.00) 0.00%
+2605.0000.2120.52010.010 ESSERF Counselor Benefits DCS $0.00 $0.00 $0.00 $9.89 $38.56 ($38.56) $0.00 ($38.56) 0.00%
+2605.0000.2120.52310.010 ESSERF Counselor MEPERS DCS $0.00 $0.00 $0.00 $2.30 $12.67 ($12.67) $0.00 ($12.67) 0.00%
+2605.0000.2130.51010.030 Salaries Paid to Professionals $0.00 $0.00 $0.00 $1,689.17 $16,008.75 ($16,008.75) $5,630.55 ($21,639.30) 0.00%
+2605.0000.2130.52010.030 Employee Benefits for Professionals $0.00 $0.00 $0.00 $543.87 $1,142.91 ($1,142.91) $1,731.66 ($2,874.57) 0.00%
+2605.0000.2130.52310.030 Retirement - Professionals $0.00 $0.00 $0.00 $64.86 $2,359.22 ($2,359.22) $216.20 ($2,575.42) 0.00%
+2605.0000.2130.57300.900 ESSERF 1 Health Equipment $0.00 $8,200.00 $8,200.00 ($300.00) $7,706.92 $493.08 $0.00 $493.08 6.01%
+2605.0000.2213.56000.950 ESSERF Staff Development $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Supplies
+2605.0000.2600.56000.010 ESSERF Custodial Supplies DCS $0.00 $0.00 $0.00 $0.00 $1,232.00 ($1,232.00) $0.00 ($1,232.00) 0.00%
+2605.0000.2600.56000.020 ESSERF Custodial Supplies MSS $0.00 $0.00 $0.00 $0.00 $359.76 ($359.76) $0.00 ($359.76) 0.00%
+2605.0000.2600.56000.030 ESSERF Custodial Supplies PES $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.0000.2600.56000.040 ESSERF Custodial Supplies MLS $0.00 $0.00 $0.00 $0.00 $176.00 ($176.00) $0.00 ($176.00) 0.00%
+2605.0000.2600.56000.050 ESSERF Custodial Supplies FMS $0.00 $0.00 $0.00 $0.00 $264.00 ($264.00) $0.00 ($264.00) 0.00%
+2605.0000.2600.56000.300 ESSERF Custodial Supplies FHS $0.00 $0.00 $0.00 $0.00 $3,105.92 ($3,105.92) $0.00 ($3,105.92) 0.00%
+2605.0000.2600.56000.900 ESSERF 1 Replacement Air Purifier $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $34,830.45 ($34,830.45) 0.00%
+Filters
+Program: OVERHEAD - 0000 $0.00 $8,200.00 $8,200.00 $2,070.09 $32,466.71 ($24,266.71) $42,408.86 ($66,675.57) -813.12%
+2605.1100.1000.51010.020 Salaries Paid to Professionals $0.00 $0.00 $0.00 $299.54 $299.54 ($299.54) $157.65 ($457.19) 0.00%
+2605.1100.1000.51010.950 Salaries Paid to Professionals $0.00 $0.00 $0.00 $390.00 $2,280.00 ($2,280.00) $120.00 ($2,400.00) 0.00%
+2605.1100.1000.51020.010 Salaries Paid to Instructional Aides $0.00 $0.00 $0.00 $37.84 $37.84 ($37.84) $75.68 ($113.52) 0.00%
+or Assistants
+2605.1100.1000.51020.020 Salaries Paid to Instructional Aides $0.00 $0.00 $0.00 $228.60 $228.60 ($228.60) $91.44 ($320.04) 0.00%
+or Assistants
+2605.1100.1000.51020.030 Salaries Paid to Instructional Aides $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+or Assistants
+2605.1100.1000.51020.040 Salaries Paid to Instructional Aides $0.00 $0.00 $0.00 $276.90 $276.90 ($276.90) $147.68 ($424.58) 0.00%
+or Assistants
+2605.1100.1000.51020.050 Salaries Paid to Instructional Aides $0.00 $0.00 $0.00 $471.53 $471.53 ($471.53) $173.35 ($644.88) 0.00%
+or Assistants
+2605.1100.1000.51020.950 Salaries Paid to Instructional Aides $0.00 $0.00 $0.00 $73.84 $5,295.06 ($5,295.06) $73.84 ($5,368.90) 0.00%
+or Assistants
+2605.1100.1000.52010.020 Employee Benefits for Professionals $0.00 $0.00 $0.00 $84.05 $84.05 ($84.05) $33.72 ($117.77) 0.00%
+2605.1100.1000.52010.950 Employee Benefits for Professionals $0.00 $0.00 $0.00 $6.54 $169.34 ($169.34) $2.04 ($171.38) 0.00%
+2605.1100.1000.52020.010 Employee Benefits for Aides or $0.00 $0.00 $0.00 $14.73 $14.73 ($14.73) $28.58 ($43.31) 0.00%
+Assistants
+2605.1100.1000.52020.020 Employee Benefits for Aides or $0.00 $0.00 $0.00 $76.36 $76.36 ($76.36) $29.74 ($106.10) 0.00%
+Assistants
+2605.1100.1000.52020.040 Employee Benefits for Aides or $0.00 $0.00 $0.00 $88.95 $88.95 ($88.95) $45.16 ($134.11) 0.00%
+Assistants
+2605.1100.1000.52020.050 Employee Benefits for Aides or $0.00 $0.00 $0.00 $69.07 $69.07 ($69.07) $28.01 ($97.08) 0.00%
+Assistants
+2605.1100.1000.52020.950 Employee Benefits for Aides or $0.00 $0.00 $0.00 $1.25 $386.59 ($386.59) $1.25 ($387.84) 0.00%
+Assistants
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 10
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2605.1100.1000.52310.020 Retirement - Professionals $0.00 $0.00 $0.00 $11.50 $11.50 ($11.50) $6.05 ($17.55) 0.00%
+2605.1100.1000.52310.950 Retirement - Professionals $0.00 $0.00 $0.00 $14.99 $32.28 ($32.28) $4.61 ($36.89) 0.00%
+2605.1100.1000.52320.010 Retirement Instructional Aides or $0.00 $0.00 $0.00 $1.45 $1.45 ($1.45) $2.80 ($4.25) 0.00%
+Assistants
+2605.1100.1000.52320.040 Retirement Instructional Aides or $0.00 $0.00 $0.00 $10.63 $10.63 ($10.63) $5.67 ($16.30) 0.00%
+Assistants
+2605.1100.1000.52320.050 Retirement Instructional Aides or $0.00 $0.00 $0.00 $18.52 $18.52 ($18.52) $6.80 ($25.32) 0.00%
+Assistants
+2605.1100.1000.52320.950 Retirement Instructional Aides or $0.00 $0.00 $0.00 $2.84 $2.84 ($2.84) $2.84 ($5.68) 0.00%
+Assistants
+2605.1100.1000.53000.950 Purchased Professional $0.00 $0.00 $0.00 $1,458.00 $1,458.00 ($1,458.00) $0.00 ($1,458.00) 0.00%
+2605.1100.1000.56100.010 ESSERF Instruction Tech Supplies $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+DCS
+2605.1100.1000.56100.020 ESSERF Instruction Supplies MSC $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.1100.1000.56100.030 ESSERF Instruction Supplies PES $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.1100.1000.56100.040 ESSERF Instruction Supplies MLS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.1100.1000.56100.050 ESSERF Instruction Supplies FMS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.1100.1000.56100.950 ESSERF K-8 Supplies $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.1100.1000.57340.010 ESSERF Instruction Tech Hardware $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+DCS
+2605.1100.1000.57340.020 ESSERF Instruction Tech Hardware $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+MSC
+2605.1100.1000.57340.030 ESSERF Instruction Tech Hardware $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+PES
+2605.1100.1000.57340.040 ESSERF Instruction Tech Hardware $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+MLS
+2605.1100.1000.57340.050 ESSERF Instruction Tech Hardware $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+FMS
+Program: ELEMENTARY PROGRAMS - 1100 $0.00 $0.00 $0.00 $3,637.13 $11,313.78 ($11,313.78) $1,036.91 ($12,350.69) 0.00%
+2605.1200.1000.56100.300 ESSERF Instruction Supplies FHS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.1200.1000.57340.300 ESSERF Instruction Tech Hardware $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+FHS
+Program: SECONDARY PROGRAMS - 1200 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2605.4300.1000.51210.010 ESSERF SUMMERSCHOOL $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+TUTOR SALARIES DCS
+2605.4300.1000.51210.050 ESSER SUMMER SCHOOL $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+TUTOR SALARIES FMS
+2605.4300.1000.52010.010 ESSERF SUMMER SCHOOL $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+TUTOR PR TAXES DCS
+2605.4300.1000.52010.050 ESSERF SUMMER SCHOOL $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+TUTOR PR TAXES FMS
+2605.4300.1000.52310.010 ESSERF SUMMER $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+SCHOOLTUTOR MEPERS DCS
+2605.4300.1000.52310.050 ESSERF SUMMER SCHOOL $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+TUTOR MEPERS FMS
+Program: SUMMER SCHOOL - 4300 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Fund: ESSERF 1 - 2605 $0.00 $8,200.00 $8,200.00 $5,707.22 $43,780.49 ($35,580.49) $43,445.77 ($79,026.26) -963.73%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 11
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2614.0000.0000.44531.000 ESSERF/ARP Revenue $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2614.0000.2600.54420.900 ESSERF 2 O&M Rentals $20,000.00 $0.00 $20,000.00 $980.00 $8,820.00 $11,180.00 $980.00 $10,200.00 51.00%
+2614.0000.2680.54300.900 ESSERF 2 O&M Repairs & Maint $178,555.00 $0.00 $178,555.00 $0.00 $178,555.00 $0.00 $0.00 $0.00 0.00%
+Services
+2614.0000.2680.54500.010 ESSERF 2 Construction Services - $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+DCS
+Program: OVERHEAD - 0000 $198,555.00 $0.00 $198,555.00 $980.00 $187,375.00 $11,180.00 $980.00 $10,200.00 5.14%
+2614.1100.1000.53401.950 ESSERF 2 Purchased Professional $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Services ELEM
+Program: ELEMENTARY PROGRAMS - 1100 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2614.1200.1000.53401.990 ESSERF 2 Purchased Professional $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Services SEC
+Program: SECONDARY PROGRAMS - 1200 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2614.4300.1000.51010.030 ESSERF 2 Summer School Tea Sal $0.00 $0.00 $0.00 $0.00 $2,502.60 ($2,502.60) $0.00 ($2,502.60) 0.00%
+- PES
+2614.4300.1000.51010.040 ESSERF 2 Summer School Tea Sal $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+- MLS
+2614.4300.1000.51020.030 ESSERF 2 Summer School ET Sal - $0.00 $0.00 $0.00 $0.00 $435.16 ($435.16) $0.00 ($435.16) 0.00%
+PES
+2614.4300.1000.51020.040 ESSERF 2 Summer School ET Sal - $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+MLS
+2614.4300.1000.52010.030 ESSERF 2 Summer School Tea $0.00 $0.00 $0.00 $0.00 $197.29 ($197.29) $0.00 ($197.29) 0.00%
+Ben - PES
+2614.4300.1000.52010.040 ESSERF 2 Summer School Tea $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Ben - MLS
+2614.4300.1000.52020.030 ESSERF 2 Summer School ET Ben $0.00 $0.00 $0.00 $0.00 $33.31 ($33.31) $0.00 ($33.31) 0.00%
+- PES
+2614.4300.1000.52020.040 ESSERF 2 Summer School ET Ben $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+- MLS
+2614.4300.1000.52310.030 ESSERF 2 Summer School Tea $0.00 $0.00 $0.00 $0.00 $96.09 ($96.09) $0.00 ($96.09) 0.00%
+Ben - PES
+2614.4300.1000.52310.040 ESSERF 2 Summer School Tea Ret $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+- MLS
+2614.4300.1000.52320.030 ESSERF 2 Summer School ET Ret $0.00 $0.00 $0.00 $0.00 $16.71 ($16.71) $0.00 ($16.71) 0.00%
+- PES
+2614.4300.1000.52320.040 ESSERF 2 Summer School ET Ret $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+- MLS
+Program: SUMMER SCHOOL - 4300 $0.00 $0.00 $0.00 $0.00 $3,281.16 ($3,281.16) $0.00 ($3,281.16) 0.00%
+Fund: ESSERF 2 - 2614 $198,555.00 $0.00 $198,555.00 $980.00 $190,656.16 $7,898.84 $980.00 $6,918.84 3.48%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 12
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2615.0000.2100.56000.950 Regular Supplies $0.00 $36,243.99 $36,243.99 $0.00 $0.00 $36,243.99 $0.00 $36,243.99 100.00%
+2615.0000.2110.51010.050 ESSERF 3 Non-SPED Social Work $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Salary - FMS
+2615.0000.2110.51010.300 ESSERF 3 Non-SPED Social Work $0.00 $0.00 $0.00 $4,569.90 $24,372.80 ($24,372.80) $15,233.01 ($39,605.81) 0.00%
+Salary - FHS
+2615.0000.2110.52010.050 ESSERF 3 Non-SPED Social Work $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Benefits - FMS
+2615.0000.2110.52010.300 ESSERF 3 Non-SPED Social Work $0.00 $0.00 $0.00 $1,242.36 $7,011.84 ($7,011.84) $4,141.44 ($11,153.28) 0.00%
+Benefits - FHS
+2615.0000.2110.52310.050 ESSERF 3 Non-SPED Social Work $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Retirement - FMS
+2615.0000.2110.52310.300 ESSERF 3 Non-SPED Social Work $0.00 $0.00 $0.00 $175.47 $4,251.75 ($4,251.75) $584.90 ($4,836.65) 0.00%
+Retirement - FHS
+2615.0000.2130.51010.030 ESSERF 3 Nurse Salary - PES $0.00 $0.00 $0.00 $0.00 $538.57 ($538.57) $0.00 ($538.57) 0.00%
+2615.0000.2130.51010.900 ESSERF 3 Pooled Testing Nurse $0.00 $0.00 $0.00 $0.00 ($4,479.92) $4,479.92 $0.00 $4,479.92 0.00%
+Salary
+2615.0000.2130.51180.900 ESSERF 3 Testing Employee $0.00 $0.00 $0.00 $2,882.29 $13,159.17 ($13,159.17) $3,062.21 ($16,221.38) 0.00%
+2615.0000.2130.52010.030 ESSERF 3 Nurse Benefits - PES $0.00 $0.00 $0.00 $0.00 $138.37 ($138.37) $0.00 ($138.37) 0.00%
+2615.0000.2130.52010.900 ESSERF 3 Pooled Testing Nurse $0.00 $0.00 $0.00 $0.00 ($1,725.14) $1,725.14 $0.00 $1,725.14 0.00%
+Benefits
+2615.0000.2130.52080.900 ESSERF 3 Testing Employee $0.00 $0.00 $0.00 $587.12 $1,945.49 ($1,945.49) $307.33 ($2,252.82) 0.00%
+Benefits
+2615.0000.2130.52310.030 ESSERF 3 Nurse Retirement - PES $0.00 $0.00 $0.00 $0.00 $20.68 ($20.68) $0.00 ($20.68) 0.00%
+2615.0000.2130.52310.900 ESSERF 3 Pooled Testing Nurse $0.00 $0.00 $0.00 $0.00 ($1,126.50) $1,126.50 $0.00 $1,126.50 0.00%
+Retirement
+2615.0000.2130.52380.900 Retirement for Regular Employees $0.00 $0.00 $0.00 $0.00 $94.46 ($94.46) $0.00 ($94.46) 0.00%
+2615.0000.2130.56000.900 ESSERF 3 Health Supplies $0.00 $13,000.00 $13,000.00 $6,168.16 $13,752.44 ($752.44) $0.00 ($752.44) -5.79%
+2615.0000.2210.53200.900 ESSERF 3 Curriculum Improvement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Srvcs
+2615.0000.2210.56000.900 ESSERF 3 Curriculum Improvement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Supplies
+2615.0000.2213.53000.900 Purchased Professional $0.00 $0.00 $0.00 $31,750.00 $31,750.00 ($31,750.00) $31,750.00 ($63,500.00) 0.00%
+2615.0000.2213.53300.900 ESSERF 3 Instructional Staff Train $34,000.00 $0.00 $34,000.00 $4,835.50 $18,029.00 $15,971.00 $20,806.50 ($4,835.50) -14.22%
+& Dev Srvs
+2615.0000.2213.56000.900 ESSERF 3 Instruct Stf Train & $5,000.00 $0.00 $5,000.00 $0.00 $0.00 $5,000.00 $0.00 $5,000.00 100.00%
+Devel Supplies
+2615.0000.2220.51020.010 ESSERF 3 Summer Librarian $0.00 $0.00 $0.00 $0.00 $548.64 ($548.64) $0.00 ($548.64) 0.00%
+Wages - DCS
+2615.0000.2220.52020.010 ESSERF 3 Summer Librarian $0.00 $0.00 $0.00 $0.00 $43.09 ($43.09) $0.00 ($43.09) 0.00%
+Benefits - DCS
+2615.0000.2220.52320.010 ESSERF 3 Summer Librarian $0.00 $0.00 $0.00 $0.00 $21.07 ($21.07) $0.00 ($21.07) 0.00%
+Retirement - DCS
+2615.0000.2230.53000.900 ESSERF 3 Technology Purch Prof $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Services
+2615.0000.2230.55330.900 ESSERF 3 Internet Connectivity $0.00 $10,000.00 $10,000.00 $340.41 $4,170.30 $5,829.70 $340.41 $5,489.29 54.89%
+2615.0000.2230.55350.900 ESSERF 3 Technology Online $0.00 $4,434.00 $4,434.00 $0.00 $4,434.00 $0.00 $0.00 $0.00 0.00%
+Subscription
+2615.0000.2230.56100.900 ESSERF 3 Technology Supplies $0.00 $3,145.05 $3,145.05 $0.00 $3,145.05 $0.00 $0.00 $0.00 0.00%
+2615.0000.2230.57340.900 ESSERF 3 Technology Equipment $0.00 $53,148.41 $53,148.41 $0.00 $53,156.69 ($8.28) $0.00 ($8.28) -0.02%
+2615.0000.2320.58100.900 ESSERF 3 SYS ADM Dues & Fees $0.00 $0.00 $0.00 $0.00 $180.00 ($180.00) $0.00 ($180.00) 0.00%
+2615.0000.2400.51180.020 ESSERF 3 Support Wages - MSS $0.00 $0.00 $0.00 $236.79 $916.26 ($916.26) $123.54 ($1,039.80) 0.00%
+2615.0000.2400.51180.040 ESSERF 3 Office Secretary Wages $0.00 $0.00 $0.00 $138.88 $2,677.78 ($2,677.78) $290.18 ($2,967.96) 0.00%
+- MLS
+2615.0000.2400.52080.020 ESSERF 3 Support Benefits - MSS $0.00 $0.00 $0.00 $18.67 $72.21 ($72.21) $9.75 ($81.96) 0.00%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 13
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2615.0000.2400.52080.040 ESSERF 3 Office Secretary $0.00 $0.00 $0.00 $114.71 $1,412.16 ($1,412.16) $125.04 ($1,537.20) 0.00%
+Benefits - MLS
+2615.0000.2400.52380.020 Retirement for Regular Employees $0.00 $0.00 $0.00 $0.00 $19.66 ($19.66) $0.00 ($19.66) 0.00%
+2615.0000.2400.52380.040 Retirement for Regular Employees $0.00 $0.00 $0.00 $0.00 $342.73 ($342.73) $0.00 ($342.73) 0.00%
+2615.0000.2600.56050.030 ESSERF 3 Non-Instructional $0.00 $700.00 $700.00 $0.00 $0.00 $700.00 $0.00 $700.00 100.00%
+Furniture - PES
+2615.0000.2680.53440.040 Professional Services $0.00 $85,000.00 $85,000.00 $325.00 $5,198.75 $79,801.25 $8,610.00 $71,191.25 83.75%
+2615.0000.2680.54500.010 ESSERF 3 Construction Services - $0.00 $21,590.00 $21,590.00 $0.00 $21,540.00 $50.00 $0.00 $50.00 0.23%
+DCS
+2615.0000.2680.54500.050 ESSERF 3 Construction Services $0.00 $100,000.00 $100,000.00 $0.00 $0.00 $100,000.00 $0.00 $100,000.00 100.00%
+2615.0000.2680.56000.010 ESSERF 3 Construction Supplies - $0.00 $1,200.00 $1,200.00 $0.00 $1,128.96 $71.04 $0.00 $71.04 5.92%
+DCS
+2615.0000.2680.57300.040 Equipment $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $58,463.75 ($58,463.75) 0.00%
+Program: OVERHEAD - 0000 $39,000.00 $328,461.45 $367,461.45 $53,385.26 $206,740.36 $160,721.09 $143,848.06 $16,873.03 4.59%
+2615.1100.1000.51010.010 ESSERF 3 Teacher Salary - DCS $0.00 $120,420.88 $120,420.88 $14,818.07 $82,975.53 $37,445.35 $34,648.05 $2,797.30 2.32%
+2615.1100.1000.51010.020 ESSERF 3 Teacher Salary - MSS $0.00 $0.00 $0.00 $995.07 $5,300.65 ($5,300.65) $3,316.90 ($8,617.55) 0.00%
+2615.1100.1000.51010.030 ESSERF 3 Teacher Salary - PES $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2615.1100.1000.51010.050 ESSERF 3 Teacher Salary - FMS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2615.1100.1000.51020.010 ESSERF 3 ET Salary - DCS $0.00 $0.00 $0.00 $662.20 $228.19 ($228.19) $0.00 ($228.19) 0.00%
+2615.1100.1000.51020.020 ESSERF 3 ET Salary - MSS $0.00 $0.00 $0.00 $124.55 $113.66 ($113.66) $0.00 ($113.66) 0.00%
+2615.1100.1000.51020.030 ESSERF 3 ET Salary - PES $0.00 $0.00 $0.00 $133.06 $638.08 ($638.08) $361.32 ($999.40) 0.00%
+2615.1100.1000.52010.010 ESSERF 3 Teacher Benefits - DCS $0.00 $0.00 $0.00 $2,471.06 $9,047.97 ($9,047.97) $6,390.61 ($15,438.58) 0.00%
+2615.1100.1000.52010.020 ESSERF 3 Teacher Benefits - MSS $0.00 $0.00 $0.00 $221.37 $974.55 ($974.55) $737.90 ($1,712.45) 0.00%
+2615.1100.1000.52010.030 ESSERF 3 Teacher Benefits - PES $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2615.1100.1000.52020.010 ESSERF 3 ET Benefits - DCS $0.00 $0.00 $0.00 ($609.63) $241.99 ($241.99) $0.00 ($241.99) 0.00%
+2615.1100.1000.52020.020 ESSERF 3 ET Benefits - MSS $0.00 $0.00 $0.00 $48.77 $500.60 ($500.60) $0.00 ($500.60) 0.00%
+2615.1100.1000.52020.030 ESSERF 3 ET Benefits - PES $0.00 $0.00 $0.00 $2.35 ($10.38) $10.38 $6.22 $4.16 0.00%
+2615.1100.1000.52310.010 ESSERF 3 Teacher Retirement - $0.00 $0.00 $0.00 $549.84 $11,069.74 ($11,069.74) $1,871.77 ($12,941.51) 0.00%
+DCS
+2615.1100.1000.52310.020 ESSERF 3 Teacher Retirement - $0.00 $0.00 $0.00 $38.22 $741.97 ($741.97) $127.40 ($869.37) 0.00%
+MSS
+2615.1100.1000.52310.030 ESSERF 3 Teacher Retirement - $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+PES
+2615.1100.1000.52320.010 ESSERF 3 ET Retirement - DCS $0.00 $0.00 $0.00 $1.45 $24.94 ($24.94) $0.00 ($24.94) 0.00%
+2615.1100.1000.52320.020 ESSERF 3 ET Retirement - MSS $0.00 $0.00 $0.00 $3.03 $201.76 ($201.76) $0.00 ($201.76) 0.00%
+2615.1100.1000.52320.030 ESSERF 3 ET Retirement - PES $0.00 $0.00 $0.00 $5.12 $143.19 ($143.19) $13.89 ($157.08) 0.00%
+Program: ELEMENTARY PROGRAMS - 1100 $0.00 $120,420.88 $120,420.88 $19,464.53 $112,192.44 $8,228.44 $47,474.06 ($39,245.62) -32.59%
+2615.1200.1000.51010.300 ESSERF 3 Teacher Salary - FHS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: SECONDARY PROGRAMS - 1200 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2615.4300.1000.51010.010 ESSERF 3 Summer School Tea Sal $0.00 $0.00 $0.00 $0.00 $14,745.00 ($14,745.00) $0.00 ($14,745.00) 0.00%
+- DCS
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 14
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2615.4300.1000.51010.020 ESSERF 3 Summer School Tea Sal $0.00 $0.00 $0.00 $0.00 $8,805.00 ($8,805.00) $0.00 ($8,805.00) 0.00%
+- MSS
+2615.4300.1000.51010.040 ESSERF 3 Summer School Tea Sal $0.00 $0.00 $0.00 $0.00 $1,515.00 ($1,515.00) $0.00 ($1,515.00) 0.00%
+- MLS
+2615.4300.1000.51010.050 ESSERF 3 Summer School $0.00 $0.00 $0.00 $0.00 $2,250.00 ($2,250.00) $0.00 ($2,250.00) 0.00%
+Teacher - FMS
+2615.4300.1000.51010.300 ESSERF 3 Summer School $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Teacher - FHS
+2615.4300.1000.51020.010 ESSERF 3 Summer School ET Sal - $0.00 $0.00 $0.00 $0.00 $3,097.50 ($3,097.50) $0.00 ($3,097.50) 0.00%
+DCS
+2615.4300.1000.51020.020 ESSERF 3 Summer School ET Sal - $0.00 $0.00 $0.00 $0.00 $6,283.28 ($6,283.28) $0.00 ($6,283.28) 0.00%
+MSS
+2615.4300.1000.51020.040 ESSERF 3 Summer School ET Sal - $0.00 $0.00 $0.00 $0.00 $1,967.07 ($1,967.07) $0.00 ($1,967.07) 0.00%
+MLS
+2615.4300.1000.52010.010 ESSERF 3 Summer School Tea $0.00 $0.00 $0.00 $0.00 $111.13 ($111.13) $0.00 ($111.13) 0.00%
+Ben - DCS
+2615.4300.1000.52010.020 ESSERF 3 Summer School Tea $0.00 $0.00 $0.00 $0.00 $810.88 ($810.88) $0.00 ($810.88) 0.00%
+Ben - MSS
+2615.4300.1000.52010.040 ESSERF 3 Summer School Tea $0.00 $0.00 $0.00 $0.00 $25.06 ($25.06) $0.00 ($25.06) 0.00%
+Ben - MLS
+2615.4300.1000.52010.050 ESSERF 3 Sum Sch Teach Benefits $0.00 $0.00 $0.00 $0.00 $32.72 ($32.72) $0.00 ($32.72) 0.00%
+- FMS
+2615.4300.1000.52010.300 ESSERF 3 Sum Sch Teacher $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Benefits - FHS
+2615.4300.1000.52020.010 ESSERF 3 Summer School ET Ben $0.00 $0.00 $0.00 $0.00 $45.05 ($45.05) $0.00 ($45.05) 0.00%
+- DCS
+2615.4300.1000.52020.020 ESSERF 3 Summer School ET Ben $0.00 $0.00 $0.00 $0.00 $897.60 ($897.60) $0.00 ($897.60) 0.00%
+- MSS
+2615.4300.1000.52020.040 ESSERF 3 Summer School ET Ben $0.00 $0.00 $0.00 $0.00 $39.87 ($39.87) $0.00 ($39.87) 0.00%
+- MLS
+2615.4300.1000.52310.010 ESSERF 3 Summer School Tea Ret $0.00 $0.00 $0.00 $0.00 $1,100.93 ($1,100.93) $0.00 ($1,100.93) 0.00%
+- DCS
+2615.4300.1000.52310.020 ESSERF 3 Summer School Tea Ret $0.00 $0.00 $0.00 $0.00 $338.13 ($338.13) $0.00 ($338.13) 0.00%
+- MSS
+2615.4300.1000.52310.040 ESSERF 3 Summer School Tea Ret $0.00 $0.00 $0.00 $0.00 $58.17 ($58.17) $0.00 ($58.17) 0.00%
+- MLS
+2615.4300.1000.52310.050 ESSERF 3 Sum Sch Teacher $0.00 $0.00 $0.00 $0.00 $86.40 ($86.40) $0.00 ($86.40) 0.00%
+Retirement - FMS
+2615.4300.1000.52310.300 ESSERF 3 Sum Sch Teacher $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Retirement - FHS
+2615.4300.1000.52320.010 ESSERF 3 Summer School ET Ret $0.00 $0.00 $0.00 $0.00 $118.95 ($118.95) $0.00 ($118.95) 0.00%
+- DCS
+2615.4300.1000.52320.020 ESSERF 3 Summer School ET Ret $0.00 $0.00 $0.00 $0.00 $1,409.77 ($1,409.77) $0.00 ($1,409.77) 0.00%
+- MSS
+2615.4300.1000.52320.040 ESSERF 3 Summer School ET Ret $0.00 $0.00 $0.00 $0.00 $75.92 ($75.92) $0.00 ($75.92) 0.00%
+- MLS
+Program: SUMMER SCHOOL - 4300 $0.00 $0.00 $0.00 $0.00 $43,813.43 ($43,813.43) $0.00 ($43,813.43) 0.00%
+Fund: ESSERF 3 - 2615 $39,000.00 $448,882.33 $487,882.33 $72,849.79 $362,746.23 $125,136.10 $191,322.12 ($66,186.02) -13.57%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 15
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2690.0000.0000.44520.000 Title IIA - Teacher Quality $0.00 $0.00 $0.00 $0.00 ($16,315.44) $16,315.44 $0.00 $16,315.44 0.00%
+2690.0000.0000.45000.000 Carry Foward - Title IIA $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.0000.0000.52020.900 Ed Tech Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.0000.0000.52320.900 Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $0.00 ($16,315.44) $16,315.44 $0.00 $16,315.44 0.00%
+2690.1100.1000.51010.950 Teacher Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.51020.950 Ed Tech Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.51500.950 STIPENDS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.52000.950 STIPEND BENEFITS $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.52010.950 Teacher Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.52020.950 Support Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.52030.950 Title IIA - Substitute Wages $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.52300.950 MEPERS Fed Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.52310.950 MEPERS Fed Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.52320.950 MAINEPERS Fed Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.52330.950 Title IIA MainePERS Fed $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.53000.950 Title II Contracted Services $0.00 $61,806.42 $61,806.42 $6,260.43 $35,259.69 $26,546.73 $17,149.74 $9,396.99 15.20%
+2690.1100.1000.55810.950 Title II Travel $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+2690.1100.1000.56000.950 Supplies $0.00 $500.00 $500.00 $0.00 $43.99 $456.01 $0.00 $456.01 91.20%
+2690.1100.1000.59100.950 TITLE 11 A Transfer In/Out $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Program: ELEMENTARY PROGRAMS - 1100 $0.00 $62,306.42 $62,306.42 $6,260.43 $35,303.68 $27,002.74 $17,149.74 $9,853.00 15.81%
+Fund: TITLE IIA - 2690 $0.00 $62,306.42 $62,306.42 $6,260.43 $18,988.24 $43,318.18 $17,149.74 $26,168.44 42.00%
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 16
+
+RSU No. 5
+Grants
+From Date: 3/1/2022 To Date: 3/31/2022
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+Grand Total: $237,555.00 $1,406,650.94 $1,644,205.94 $79,272.78 $999,113.47 $645,092.47 $492,558.59 $152,533.88 9.28%
+End of Report
+Printed: 04/14/2022 10:21:57 AM Report: rptGLGenRptwBudgetAdj 2021.4.16 Page: 17
