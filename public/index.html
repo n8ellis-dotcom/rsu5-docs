@@ -79,50 +79,48 @@ header{background:var(--crimson);color:white;padding:0 20px;display:flex;align-i
   <div class="note">RSU5 Community Assistant &middot; Powered by Claude AI &middot; Not an official district resource</div>
 </div>
 <script>
-let history=[],isLoading=false;
-async function sendMessage(){
+var history=[],isLoading=false;
+function sendMessage(){
   if(isLoading)return;
-  const input=document.getElementById("user-input");
-  const question=input.value.trim();
+  var input=document.getElementById('user-input');
+  var question=input.value.trim();
   if(!question)return;
-  input.value="";autoResize(input);
-  isLoading=true;document.getElementById("send-btn").disabled=true;
-  addMessage("user",question);
-  const tid=addTyping("Searching RSU5 documents...");
-  try{
-    const res=await fetch("/api/chat",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({question,history})});
-    const data=await res.json();
-    if(!res.ok)throw new Error(data.error||"Server error");
-    history.push({role:"user",content:question});
-    history.push({role:"assistant",content:data.answer});
-    removeTyping(tid);addMessage("assistant",data.answer);
-  }catch(e){removeTyping(tid);addErr("Error: "+e.message);}
-  isLoading=false;document.getElementById("send-btn").disabled=false;
+  input.value='';input.style.height='42px';
+  isLoading=true;document.getElementById('send-btn').disabled=true;
+  addMessage('user',question);
+  var tid=addTyping('Searching RSU5 documents...');
+  fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:question,history:history})})
+  .then(function(r){return r.json().then(function(d){return {ok:r.ok,d:d};});})
+  .then(function(rd){
+    if(!rd.ok)throw new Error(rd.d.error||'Server error');
+    history.push({role:'user',content:question});
+    history.push({role:'assistant',content:rd.d.answer});
+    removeTyping(tid);addMessage('assistant',rd.d.answer);
+  })
+  .catch(function(e){removeTyping(tid);addErr('Error: '+e.message);})
+  .finally(function(){isLoading=false;document.getElementById('send-btn').disabled=false;});
 }
 function addMessage(role,text){
-  const msgs=document.getElementById("messages");
-  const div=document.createElement("div");div.className="msg "+role;
-  const av=document.createElement("div");av.className="avatar";av.textContent=role==="user"?"You":"5";
-  const b=document.createElement("div");b.className="bubble";
-  b.innerHTML="<p>"+text.replace(/\*\*(.*?)\*\*/g,"<strong>$1</strong>").replace(/
-
-/g,"</p><p>").replace(/
-/g,"<br>")+"</p>";
+  var msgs=document.getElementById('messages');
+  var div=document.createElement('div');div.className='msg '+role;
+  var av=document.createElement('div');av.className='avatar';av.textContent=role==='user'?'You':'5';
+  var b=document.createElement('div');b.className='bubble';
+  b.innerHTML='<p>'+text.replace(/\n\n/g,'</p><p>').replace(/\n/g,'<br>')+'</p>';
   div.appendChild(av);div.appendChild(b);msgs.appendChild(div);msgs.scrollTop=msgs.scrollHeight;
 }
 function addTyping(label){
-  const msgs=document.getElementById("messages");const id="t"+Date.now();
-  const div=document.createElement("div");div.className="msg assistant typing";div.id=id;
-  const av=document.createElement("div");av.className="avatar";av.textContent="5";
-  const b=document.createElement("div");b.className="bubble";
+  var msgs=document.getElementById('messages');var id='t'+Date.now();
+  var div=document.createElement('div');div.className='msg assistant typing';div.id=id;
+  var av=document.createElement('div');av.className='avatar';av.textContent='5';
+  var b=document.createElement('div');b.className='bubble';
   b.innerHTML='<div class="fm">'+label+'</div><div class="typing-dots"><span></span><span></span><span></span></div>';
   div.appendChild(av);div.appendChild(b);msgs.appendChild(div);msgs.scrollTop=msgs.scrollHeight;return id;
 }
-function removeTyping(id){const el=document.getElementById(id);if(el)el.remove();}
-function addErr(msg){const msgs=document.getElementById("messages");const d=document.createElement("div");d.className="err";d.textContent=msg;msgs.appendChild(d);msgs.scrollTop=msgs.scrollHeight;}
-function askSample(btn){var inp=document.getElementById("user-input");inp.value=btn.textContent;inp.focus();sendMessage();}
-function handleKey(e){if(e.key==="Enter"&&!e.shiftKey){e.preventDefault();e.stopPropagation();sendMessage();return false;}}
-function autoResize(el){el.style.height="auto";el.style.height=Math.min(el.scrollHeight,120)+"px";}
+function removeTyping(id){var el=document.getElementById(id);if(el)el.remove();}
+function addErr(msg){var msgs=document.getElementById('messages');var d=document.createElement('div');d.className='err';d.textContent=msg;msgs.appendChild(d);msgs.scrollTop=msgs.scrollHeight;}
+function askSample(btn){document.getElementById('user-input').value=btn.textContent;sendMessage();}
+function handleKey(e){if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendMessage();}}
+function autoResize(el){el.style.height='auto';el.style.height=Math.min(el.scrollHeight,120)+'px';}
 </script>
 </body>
 </html>
