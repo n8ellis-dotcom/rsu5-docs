@@ -1,7 +1,6 @@
 const BASE = 'https://raw.githubusercontent.com/n8ellis-dotcom/rsu5-docs/main/';
 const INDEX_URL = BASE + 'index.json';
 
-// YouTube video IDs for each transcript
 const YOUTUBE_IDS = {
   'transcript_2025-09-10': 'B4uYUWf69jc',
   'transcript_2025-09-24': 'O9rwZbpMQjE',
@@ -31,7 +30,6 @@ async function getIndex() {
   const r = await fetch(INDEX_URL);
   if (!r.ok) throw new Error('Could not fetch index.json');
   const data = await r.json();
-  // Expand compact format: {tags: [...], files: [[path, [tag_ids]], ...]}
   _indexCache = data.files.map(([file, tagIds]) => ({
     file,
     tags: tagIds.map(i => data.tags[i])
@@ -39,17 +37,100 @@ async function getIndex() {
   return _indexCache;
 }
 
+// Expand the question with inferred tags so scoring works even when
+// the user doesn't use exact tag language
+function expandQuery(q) {
+  const expanded = [q];
+
+  // Calendar year -> FY tag (school year starts in fall of prior year)
+  const YEAR_TO_FY = {
+    '2015': 'fy16', '2016': 'fy17', '2017': 'fy18', '2018': 'fy19',
+    '2019': 'fy20', '2020': 'fy21', '2021': 'fy22', '2022': 'fy23',
+    '2023': 'fy24', '2024': 'fy25', '2025': 'fy26', '2026': 'fy27',
+  };
+  Object.entries(YEAR_TO_FY).forEach(([year, fy]) => {
+    if (q.includes(year)) expanded.push(fy);
+  });
+
+  // Relative year references
+  if (/this year|current year|fy27|2026.2027/.test(q)) expanded.push('fy27');
+  if (/last year|prior year|previous year|fy26|2025.2026/.test(q)) expanded.push('fy26');
+  if (/two years ago|fy25|2024.2025/.test(q)) expanded.push('fy25');
+
+  // Topic synonyms -> tags
+  const SYNONYMS = {
+    'teacher': 'staffing',
+    'educator': 'staffing',
+    'hire': 'staffing',
+    'layoff': 'reductions',
+    'laid off': 'reductions',
+    'eliminate': 'reductions',
+    'cut': 'reductions',
+    'trim': 'reductions',
+    'spanish': 'world language',
+    'language program': 'world language',
+    'esl': 'world language',
+    'lunch': 'nutrition',
+    'food service': 'nutrition',
+    'special ed': 'special education',
+    'iep': 'special education',
+    'disability': 'special education',
+    'school bus': 'transportation',
+    'busing': 'transportation',
+    'sport': 'athletics',
+    'team': 'athletics',
+    'chromebook': 'technology',
+    'laptop': 'technology',
+    'device': 'technology',
+    'reading': 'curriculum',
+    'math': 'curriculum',
+    'science': 'curriculum',
+    'class size': 'enrollment',
+    'students': 'enrollment',
+    'headcount': 'enrollment',
+    'property tax': 'tax impact',
+    'mil rate': 'tax impact',
+    'homeowner': 'tax impact',
+    'levy': 'tax impact',
+    'state funding': 'revenue',
+    'state subsidy': 'revenue',
+    'federal': 'grant',
+    'title i': 'grant',
+    'esser': 'grant',
+    'kindergarten': 'early childhood',
+    'pre-k': 'early childhood',
+    'preschool': 'early childhood',
+    'vote': 'board vote',
+    'approved': 'board vote',
+    'motion': 'board vote',
+    'meeting': 'board meeting',
+    'superintendent': 'superintendent report',
+    'hearing': 'board meeting',
+    'freeport high': 'freeport high school',
+    'freeport middle': 'freeport middle school',
+    'fhs': 'freeport high school',
+    'fms': 'freeport middle school',
+    'mls': 'mast landing',
+    'durham': 'durham community',
+    'pownal': 'pownal elementary',
+  };
+  Object.entries(SYNONYMS).forEach(([word, tag]) => {
+    if (q.includes(word)) expanded.push(tag);
+  });
+
+  return expanded.join(' ');
+}
+
 async function selectFiles(q) {
   q = q.toLowerCase();
+  const expandedQ = expandQuery(q);
   const index = await getIndex();
 
-  // Score each file by how many of its tags appear in the question
   const scored = index.map(entry => {
-    const score = entry.tags.filter(tag => q.includes(tag)).length;
+    const score = entry.tags.filter(tag => expandedQ.includes(tag)).length;
     return { file: entry.file, score };
   }).filter(e => e.score > 0);
 
-  // Sort by score descending, prefer part1 over part2 on ties
   scored.sort((a, b) => {
     if (b.score !== a.score) return b.score - a.score;
     if (a.file.includes('part2') && !b.file.includes('part2')) return 1;
@@ -57,7 +138,6 @@ async function selectFiles(q) {
     return 0;
   });
 
-  // Take top 3, skipping part2 if part1 of same file already included
   const selected = [];
   const seenBases = new Set();
   for (const entry of scored) {
@@ -69,7 +149,6 @@ async function selectFiles(q) {
     if (selected.length >= 3) break;
   }
 
-  // Fallback: most recent transcript + budget handbook
   if (selected.length === 0) {
     selected.push(
       'transcripts/transcript_2026-03-11_4IipgPJRPYg_part1.txt',
@@ -98,7 +177,6 @@ module.exports = async function(req, res) {
   try {
     const files = await selectFiles(question);
 
-    // Build YouTube links for any transcript files used
     const youtubeLinks = [];
     files.forEach(f => {
       if (f.startsWith('transcripts/')) {
@@ -160,4 +238,3 @@ module.exports = async function(req, res) {
     res.status(500).json({error: e.message});
   }
 };
-
