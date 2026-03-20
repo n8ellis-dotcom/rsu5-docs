@@ -11,7 +11,7 @@
 body{font-family:'Source Sans 3',sans-serif;background:var(--cream);color:var(--charcoal);height:100vh;display:flex;flex-direction:column;overflow:hidden;}
 header{background:var(--crimson);color:white;padding:0 20px;display:flex;align-items:center;gap:14px;height:58px;flex-shrink:0;box-shadow:0 2px 8px rgba(0,0,0,.25);}
 .logo{width:36px;height:36px;background:white;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:'Libre Baskerville',serif;font-weight:700;color:var(--crimson);font-size:11px;flex-shrink:0;line-height:1.2;text-align:center;}
-.ht{font-family:'Libre Baskerville',serif;font-size:17px;font-weiht:700;}
+.ht{font-family:'Libre Baskerville',serif;font-size:17px;font-weight:700;}
 .hs{font-size:11px;opacity:.75;text-transform:uppercase;letter-spacing:.06em;margin-top:1px;}
 .hw{margin-left:auto;font-size:11px;opacity:.65;text-align:right;text-transform:uppercase;letter-spacing:.05em;line-height:1.4;}
 .sbar{background:var(--warm-white);border-bottom:1px solid var(--border);padding:6px 16px;font-size:11px;color:var(--mid-gray);display:flex;align-items:center;gap:6px;flex-shrink:0;}
@@ -26,6 +26,12 @@ header{background:var(--crimson);color:white;padding:0 20px;display:flex;align-i
 .msg.user .bubble{background:var(--crimson);color:white;border-bottom-right-radius:4px;}
 .msg.assistant .bubble{background:var(--warm-white);border:1px solid var(--border);border-bottom-left-radius:4px;}
 .bubble p{margin-bottom:8px;}.bubble p:last-child{margin-bottom:0;}
+/* Search deeper button */
+.deeper-wrap{display:flex;margin-left:40px;margin-top:-8px;}
+.deeper-btn{font-size:12px;color:var(--mid-gray);background:none;border:1px solid var(--border);border-radius:20px;padding:4px 12px;cursor:pointer;display:flex;align-items:center;gap:5px;transition:all .15s;}
+.deeper-btn:hover{background:var(--light-gray);color:var(--charcoal);border-color:var(--charcoal);}
+.deeper-btn svg{width:12px;height:12px;fill:currentColor;}
+.deeper-badge{font-size:11px;color:var(--mid-gray);font-style:italic;margin-left:40px;margin-top:-4px;padding:3px 0;}
 .welcome{background:var(--warm-white);border:1px solid var(--border);border-left:4px solid var(--crimson);border-radius:8px;padding:18px 20px;max-width:680px;}
 .welcome h3{font-family:'Libre Baskerville',serif;font-size:15px;color:var(--crimson);margin-bottom:6px;}
 .welcome p{font-size:13px;color:var(--mid-gray);line-height:1.6;margin-bottom:10px;}
@@ -63,64 +69,125 @@ header{background:var(--crimson);color:white;padding:0 20px;display:flex;align-i
     <p>Ask me anything about RSU5 board meetings, budgets, policies, school calendars, or district decisions. I search official RSU5 documents and cite my sources.</p>
     <p style="font-size:12px;color:#999;">Neutral and factual &mdash; this tool does not take positions on policy debates.</p>
     <div class="samples">
-      <button class="sample" onclick="askSample(this)">What did the board discuss about the budget at the November 2025 meeting?</button>
-      <button class="sample" onclick="askSample(this)">What was discussed about cutting the French teaching position?</button>
-      <button class="sample" onclick="askSample(this)">What are the proposed budget cuts for 2026-2027?</button>
-      <button class="sample" onclick="askSample(this)">What is RSU5 policy on student cell phone use?</button>
-      <button class="sample" onclick="askSample(this)">What was the tax impact of last year budget for Freeport homeowners?</button>
+      <button class="sample" onclick="askSample(this)">What positions are being reduced in the FY27 superintendent's recommended budget?</button>
+      <button class="sample" onclick="askSample(this)">What was the RSU5 budget total in 2020?</button>
+      <button class="sample" onclick="askSample(this)">What is the graduation requirement at Freeport High School?</button>
+      <button class="sample" onclick="askSample(this)">What did the board vote on at the March 2026 meeting?</button>
+      <button class="sample" onclick="askSample(this)">What did the board discuss about the FY27 budget at the November 2025 meeting?</button>
     </div>
   </div>
 </div>
 <div class="input-area">
   <div class="input-row">
     <textarea id="user-input" placeholder="Ask a question about RSU5..." rows="1" onkeydown="handleKey(event)" oninput="autoResize(this)"></textarea>
-    <button id="send-btn" onclick="sendMessage()"><svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg></button>
+    <button id="send-btn" onclick="sendMessage()">
+      <svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+    </button>
   </div>
   <div class="note">RSU5 Community Assistant &middot; Powered by Claude AI &middot; Not an official district resource</div>
 </div>
 <script>
-var chatHistory=[],isLoading=false;
-function sendMessage(){
-  if(isLoading)return;
-  var input=document.getElementById('user-input');
-  var question=input.value.trim();
-  if(!question)return;
-  input.value='';input.style.height='42px';
-  isLoading=true;document.getElementById('send-btn').disabled=true;
-  addMessage('user',question);
-  var tid=addTyping('Searching RSU5 documents...');
-  fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:question,history:chatHistory})})
-  .then(function(r){return r.json().then(function(d){return {ok:r.ok,d:d};});})
-  .then(function(rd){
-        chatHistory.push({role:'user',content:question});
-        chatHistory.push({role:'assistant',content:rd.d.answer});
-    chatHistory.push({role:'assistant',content:rd.d.answer});
-    removeTyping(tid);addMessage('assistant',rd.d.answer);
+var chatHistory = [], isLoading = false, lastQuestion = '';
+
+function sendMessage(forceDeep) {
+  if (isLoading) return;
+  var input = document.getElementById('user-input');
+  var question = forceDeep ? lastQuestion : input.value.trim();
+  if (!question) return;
+  if (!forceDeep) { input.value = ''; input.style.height = '42px'; }
+  isLoading = true;
+  document.getElementById('send-btn').disabled = true;
+  lastQuestion = question;
+
+  // Remove any existing deeper button
+  var existing = document.querySelector('.deeper-wrap');
+  if (existing) existing.remove();
+  var existingBadge = document.querySelector('.deeper-badge');
+  if (existingBadge) existingBadge.remove();
+
+  if (!forceDeep) addMessage('user', question);
+
+  var label = forceDeep ? 'Searching deeper across all policy documents...' : 'Searching RSU5 documents...';
+  var tid = addTyping(label);
+
+  fetch('/api/chat', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({question: question, history: chatHistory, forceDeep: !!forceDeep})
   })
-  .catch(function(e){removeTyping(tid);addErr('Error: '+e.message);})
-  .finally(function(){isLoading=false;document.getElementById('send-btn').disabled=false;});
+  .then(function(r) { return r.json().then(function(d) { return {ok: r.ok, d: d}; }); })
+  .then(function(rd) {
+    removeTyping(tid);
+    if (rd.d.error) { addErr('Error: ' + rd.d.error); return; }
+    chatHistory.push({role: 'user', content: question});
+    chatHistory.push({role: 'assistant', content: rd.d.answer});
+    addMessage('assistant', rd.d.answer, rd.d.deepSearch);
+  })
+  .catch(function(e) { removeTyping(tid); addErr('Error: ' + e.message); })
+  .finally(function() { isLoading = false; document.getElementById('send-btn').disabled = false; });
 }
-function addMessage(role,text){
-  var msgs=document.getElementById('messages');
-  var div=document.createElement('div');div.className='msg '+role;
-  var av=document.createElement('div');av.className='avatar';av.textContent=role==='user'?'You':'5';
-  var b=document.createElement('div');b.className='bubble';
-  b.innerHTML='<p>'+text.replace(/\n\n/g,'</p><p>').replace(/\n/g,'<br>')+'</p>';
-  div.appendChild(av);div.appendChild(b);msgs.appendChild(div);msgs.scrollTop=msgs.scrollHeight;
+
+function addMessage(role, text, wasDeep) {
+  var msgs = document.getElementById('messages');
+
+  var div = document.createElement('div');
+  div.className = 'msg ' + role;
+  var av = document.createElement('div');
+  av.className = 'avatar';
+  av.textContent = role === 'user' ? 'You' : '5';
+  var b = document.createElement('div');
+  b.className = 'bubble';
+  b.innerHTML = '<p>' + text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>').replace(/\n\n/g, '</p><p>').replace(/\n/g, '<br>') + '</p>';
+  div.appendChild(av);
+  div.appendChild(b);
+  msgs.appendChild(div);
+
+  // Add Search Deeper button after assistant messages
+  if (role === 'assistant') {
+    if (wasDeep) {
+      // Already did a deep search — show a badge instead of button
+      var badge = document.createElement('div');
+      badge.className = 'deeper-badge';
+      badge.textContent = '&#x1F50D; Deep search was used for this answer.';
+      msgs.appendChild(badge);
+    } else {
+      // Show Search Deeper button
+      var wrap = document.createElement('div');
+      wrap.className = 'deeper-wrap';
+      var btn = document.createElement('button');
+      btn.className = 'deeper-btn';
+      btn.innerHTML = '<svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg> Search Deeper';
+      btn.onclick = function() {
+        wrap.remove();
+        sendMessage(true);
+      };
+      wrap.appendChild(btn);
+      msgs.appendChild(wrap);
+    }
+  }
+
+  msgs.scrollTop = msgs.scrollHeight;
 }
-function addTyping(label){
-  var msgs=document.getElementById('messages');var id='t'+Date.now();
-  var div=document.createElement('div');div.className='msg assistant typing';div.id=id;
-  var av=document.createElement('div');av.className='avatar';av.textContent='5';
-  var b=document.createElement('div');b.className='bubble';
-  b.innerHTML='<div class="fm">'+label+'</div><div class="typing-dots"><span></span><span></span><span></span></div>';
-  div.appendChild(av);div.appendChild(b);msgs.appendChild(div);msgs.scrollTop=msgs.scrollHeight;return id;
+
+function addTyping(label) {
+  var msgs = document.getElementById('messages');
+  var id = 't' + Date.now();
+  var div = document.createElement('div');
+  div.className = 'msg assistant typing';
+  div.id = id;
+  var av = document.createElement('div'); av.className = 'avatar'; av.textContent = '5';
+  var b = document.createElement('div'); b.className = 'bubble';
+  b.innerHTML = '<div class="fm">' + label + '</div><div class="typing-dots"><span></span><span></span><span></span></div>';
+  div.appendChild(av); div.appendChild(b); msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+  return id;
 }
-function removeTyping(id){var el=document.getElementById(id);if(el)el.remove();}
-function addErr(msg){var msgs=document.getElementById('messages');var d=document.createElement('div');d.className='err';d.textContent=msg;msgs.appendChild(d);msgs.scrollTop=msgs.scrollHeight;}
-function askSample(btn){document.getElementById('user-input').value=btn.textContent;sendMessage();}
-function handleKey(e){if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendMessage();}}
-function autoResize(el){el.style.height='auto';el.style.height=Math.min(el.scrollHeight,120)+'px';}
+
+function removeTyping(id) { var el = document.getElementById(id); if (el) el.remove(); }
+function addErr(msg) { var msgs = document.getElementById('messages'); var d = document.createElement('div'); d.className = 'err'; d.textContent = msg; msgs.appendChild(d); msgs.scrollTop = msgs.scrollHeight; }
+function askSample(btn) { document.getElementById('user-input').value = btn.textContent; sendMessage(); }
+function handleKey(e) { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendMessage(); } }
+function autoResize(el) { el.style.height = 'auto'; el.style.height = Math.min(el.scrollHeight, 120) + 'px'; }
 </script>
 </body>
 </html>
