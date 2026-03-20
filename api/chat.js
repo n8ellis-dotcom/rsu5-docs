@@ -37,12 +37,10 @@ async function getIndex() {
   return _indexCache;
 }
 
-// Expand the question with inferred tags so scoring works even when
-// the user doesn't use exact tag language
 function expandQuery(q) {
   const expanded = [q];
 
-  // Calendar year -> FY tag (school year starts in fall of prior year)
+  // Calendar year -> FY tag
   const YEAR_TO_FY = {
     '2015': 'fy16', '2016': 'fy17', '2017': 'fy18', '2018': 'fy19',
     '2019': 'fy20', '2020': 'fy21', '2021': 'fy22', '2022': 'fy23',
@@ -57,7 +55,7 @@ function expandQuery(q) {
   if (/last year|prior year|previous year|fy26|2025.2026/.test(q)) expanded.push('fy26');
   if (/two years ago|fy25|2024.2025/.test(q)) expanded.push('fy25');
 
-  // Topic synonyms -> tags
+  // Topic synonyms
   const SYNONYMS = {
     'teacher': 'staffing',
     'educator': 'staffing',
@@ -70,6 +68,7 @@ function expandQuery(q) {
     'spanish': 'world language',
     'language program': 'world language',
     'esl': 'world language',
+    'esol': 'world language',
     'lunch': 'nutrition',
     'food service': 'nutrition',
     'special ed': 'special education',
@@ -81,7 +80,6 @@ function expandQuery(q) {
     'team': 'athletics',
     'chromebook': 'technology',
     'laptop': 'technology',
-    'device': 'technology',
     'reading': 'curriculum',
     'math': 'curriculum',
     'science': 'curriculum',
@@ -104,7 +102,6 @@ function expandQuery(q) {
     'approved': 'board vote',
     'motion': 'board vote',
     'meeting': 'board meeting',
-    'superintendent': 'superintendent report',
     'hearing': 'board meeting',
     'freeport high': 'freeport high school',
     'freeport middle': 'freeport middle school',
@@ -113,6 +110,22 @@ function expandQuery(q) {
     'mls': 'mast landing',
     'durham': 'durham community',
     'pownal': 'pownal elementary',
+    'cell phone': 'cell phone policy',
+    'phone policy': 'cell phone policy',
+    'electronic device': 'acceptable use policy',
+    'hazing': 'hazing policy',
+    'bullying': 'bullying prevention',
+    'expulsion': 'student discipline',
+    'suspension': 'student discipline',
+    'grievance': 'complaint procedures',
+    'discrimination': 'nondiscrimination policy',
+    'harassment': 'harassment complaint procedures',
+    'homeschool': 'home schooling policy',
+    'home school': 'home schooling policy',
+    'graduation': 'graduation requirements',
+    'absences': 'attendance policy',
+    'truancy': 'attendance policy',
+    'open enrollment': 'student assignment policy',
   };
   Object.entries(SYNONYMS).forEach(([word, tag]) => {
     if (q.includes(word)) expanded.push(tag);
@@ -121,22 +134,53 @@ function expandQuery(q) {
   return expanded.join(' ');
 }
 
+// Score a file's tags against the expanded query
+// Uses word-set matching so tag "cell phone policy" matches query "policy on cell phones"
+function scoreEntry(entry, expandedQ) {
+  const STOPWORDS = new Set(['the','and','for','are','was','what','when','does','did','how',
+    'why','who','which','that','this','with','have','has','had','not','but','from','they',
+    'will','about','can','tell','give','show','any','all','more','some','there','been',
+    'school','rsu5','rsu','please','information']);
+  const qWords = new Set(expandedQ.split(/\s+/).filter(w => w.length >= 3 && !STOPWORDS.has(w)));
+
+  let score = 0;
+  for (const tag of entry.tags) {
+    // Exact: full tag is a substring of the query (highest confidence)
+    if (expandedQ.includes(tag)) {
+      score += 3;
+    } else {
+      const tagWords = tag.split(/\s+/).filter(w => w.length >= 3);
+      const tagWordSet = new Set(tagWords);
+      // All tag words appear somewhere in query words
+      if (tagWords.length > 0 && [...tagWordSet].every(tw => qWords.has(tw))) {
+        score += 2;
+      }
+      // Majority of multi-word tag words appear in query
+      else if (tagWords.length >= 2) {
+        const overlap = [...tagWordSet].filter(tw => qWords.has(tw)).length;
+        if (overlap >= Math.ceil(tagWords.length * 0.6)) {
+          score += 1;
+        }
+      }
+    }
+  }
+  return score;
+}
+
 async function selectFiles(q) {
   q = q.toLowerCase();
   const expandedQ = expandQuery(q);
   const index = await getIndex();
 
-  const scored = index.map(entry => {
-    const score = entry.tags.filter(tag => expandedQ.includes(tag)).length;
-    return { file: entry.file, score };
-  }).filter(e => e.score > 0);
-
-  scored.sort((a, b) => {
-    if (b.score !== a.score) return b.score - a.score;
-    if (a.file.includes('part2') && !b.file.includes('part2')) return 1;
-    if (b.file.includes('part2') && !a.file.includes('part2')) return -1;
-    return 0;
-  });
+  const scored = index
+    .map(entry => ({ file: entry.file, score: scoreEntry(entry, expandedQ) }))
+    .filter(e => e.score > 0)
+    .sort((a, b) => {
+      if (b.score !== a.score) return b.score - a.score;
+      if (a.file.includes('part2') && !b.file.includes('part2')) return 1;
+      if (b.file.includes('part2') && !a.file.includes('part2')) return -1;
+      return 0;
+    });
 
   const selected = [];
   const seenBases = new Set();
