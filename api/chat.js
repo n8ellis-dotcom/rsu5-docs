@@ -25,7 +25,6 @@ function getYouTubeLink(filePath) {
   return id ? 'https://www.youtube.com/watch?v=' + id : null;
 }
 
-// ── Caches ────────────────────────────────────────────────────────────────────
 let _indexCache = null;
 let _policyFileListCache = null;
 
@@ -41,7 +40,6 @@ async function getIndex() {
   return _indexCache;
 }
 
-// Fetch all policy PDF filenames for deep scan fallback
 async function getPolicyFileList() {
   if (_policyFileListCache) return _policyFileListCache;
   const r = await fetch(GITHUB_TREE_URL);
@@ -53,7 +51,6 @@ async function getPolicyFileList() {
   return _policyFileListCache;
 }
 
-// ── Query expansion ───────────────────────────────────────────────────────────
 function expandQuery(q) {
   const expanded = [q];
 
@@ -83,8 +80,9 @@ function expandQuery(q) {
     'chromebook': 'technology', 'laptop': 'technology',
     'reading': 'curriculum', 'math': 'curriculum', 'science': 'curriculum',
     'class size': 'enrollment', 'students': 'enrollment', 'headcount': 'enrollment',
-    'property tax': 'tax impact', 'mil rate': 'tax impact',
-    'homeowner': 'tax impact', 'levy': 'tax impact', 'property owner': 'tax impact', 'per household': 'tax impact', 'home value': 'tax impact', 'mil rate': 'tax impact', 'mill rate': 'tax impact',
+    'property tax': 'tax impact', 'mil rate': 'tax impact', 'mill rate': 'tax impact',
+    'homeowner': 'tax impact', 'levy': 'tax impact', 'property owner': 'tax impact',
+    'per household': 'tax impact', 'home value': 'tax impact',
     'state funding': 'revenue', 'state subsidy': 'revenue',
     'federal': 'grant', 'title i': 'grant', 'esser': 'grant',
     'kindergarten': 'early childhood', 'pre-k': 'early childhood', 'preschool': 'early childhood',
@@ -111,7 +109,6 @@ function expandQuery(q) {
   return expanded.join(' ');
 }
 
-// ── Tag scoring ───────────────────────────────────────────────────────────────
 function scoreEntry(entry, expandedQ) {
   const STOPWORDS = new Set(['the','and','for','are','was','what','when','does','did','how',
     'why','who','which','that','this','with','have','has','had','not','but','from','they',
@@ -139,7 +136,6 @@ function scoreEntry(entry, expandedQ) {
   return score;
 }
 
-// ── Pass 1: index-based selection ─────────────────────────────────────────────
 async function selectFromIndex(expandedQ) {
   const index = await getIndex();
   const scored = index
@@ -168,13 +164,10 @@ async function selectFromIndex(expandedQ) {
   return { files: selected, topScore };
 }
 
-// ── Pass 2: deep policy file scan ─────────────────────────────────────────────
-// Score policy filenames directly against query words
 async function selectFromPolicyFiles(expandedQ) {
   const allPolicyFiles = await getPolicyFileList();
   const STOPWORDS = new Set(['the','and','for','are','was','pdf','what','when','does','use',
     'with','board','rsu','rsu5','directors','of','in']);
-  // Note: 'student', 'school', 'policy' intentionally kept so they differentiate filenames
 
   const qWords = expandedQ.split(/\s+/)
     .map(w => w.replace(/[^a-z0-9]/g, ''))
@@ -191,26 +184,32 @@ async function selectFromPolicyFiles(expandedQ) {
   return scored.map(e => e.file);
 }
 
-// ── Main file selector ────────────────────────────────────────────────────────
-const SCORE_THRESHOLD = 2; // minimum score to trust index results
+const SCORE_THRESHOLD = 2;
 
 async function selectFiles(q) {
   const expandedQ = expandQuery(q);
   const { files, topScore } = await selectFromIndex(expandedQ);
 
-  // Pass 1 succeeded — good index match
   if (topScore >= SCORE_THRESHOLD && files.length > 0) {
+    // For tax impact queries, ensure budget handbook is included
+    const hasTaxQuery = expandedQ.includes('tax impact') || expandedQ.includes('mil rate') ||
+      expandedQ.includes('homeowner') || expandedQ.includes('property tax') ||
+      expandedQ.includes('home value') || expandedQ.includes('per household');
+    const hasTaxFile = files.some(f =>
+      f.includes('Tax_Impact') || f.includes('2686') || f.includes('2715') ||
+      f.includes('Budget_Handbook') || f.includes('tax') || f.includes('2021_')
+    );
+    if (hasTaxQuery && !hasTaxFile) {
+      files[files.length - 1] = 'docs/2686_2026-2027_Superintendents_Recommended_Budget_Handbook.txt';
+    }
     return { files, deepSearch: false };
   }
 
-  // Pass 2 — score too low, try deep policy file scan
   const deepFiles = await selectFromPolicyFiles(expandedQ);
-
   if (deepFiles.length > 0) {
     return { files: deepFiles, deepSearch: true };
   }
 
-  // Nothing found — use fallback
   return {
     files: [
       'transcripts/transcript_2026-03-11_4IipgPJRPYg_part1.txt',
@@ -227,7 +226,6 @@ async function fetchDoc(path) {
   return t.length > 60000 ? t.slice(0, 60000) + '\n[truncated]' : t;
 }
 
-// ── Handler ───────────────────────────────────────────────────────────────────
 module.exports = async function(req, res) {
   if (req.method !== 'POST') return res.status(405).json({error: 'method not allowed'});
   const body = req.body;
@@ -271,7 +269,7 @@ module.exports = async function(req, res) {
       : '';
 
     const deepNote = deepSearch
-      ? '\n\nNote: This answer required a deeper search beyond the standard index. The documents provided are the closest policy matches found by filename.' 
+      ? '\n\nNote: This answer required a deeper search beyond the standard index.'
       : '';
 
     const system = 'You are the RSU5 Community Information Assistant for Regional School Unit 5 (Freeport, Durham, Pownal, Maine). Answer using ONLY the provided documents. Cite source and date. Be neutral and factual. Use position titles not staff names. When citing a board meeting transcript, include the YouTube link so the user can watch the full meeting. If information is not found in the provided documents, say so clearly and suggest rsu5.org or mcmanusg@rsu5.org.\n\nDOCUMENTS:\n' + docs.join('\n\n---\n\n') + youtubeNote + deepNote;
