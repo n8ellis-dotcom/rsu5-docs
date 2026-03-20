@@ -153,7 +153,7 @@ async function selectFromIndex(expandedQ) {
       seenBases.add(base);
       selected.push(entry.file);
     }
-    if (selected.length >= 3) break;
+    if (selected.length >= 4) break;
   }
 
   return { files: selected, topScore };
@@ -228,7 +228,7 @@ async function fetchDoc(path) {
   const r = await fetch(BASE + path);
   if (!r.ok) throw new Error('Could not fetch ' + path);
   const t = await r.text();
-  return t.length > 60000 ? t.slice(0, 60000) + '\n[truncated]' : t;
+  return t.length > 80000 ? t.slice(0, 80000) + '\n[truncated]' : t;
 }
 
 // ── Handler ───────────────────────────────────────────────────────────────────
