@@ -84,7 +84,7 @@ function expandQuery(q) {
     'reading': 'curriculum', 'math': 'curriculum', 'science': 'curriculum',
     'class size': 'enrollment', 'students': 'enrollment', 'headcount': 'enrollment',
     'property tax': 'tax impact', 'mil rate': 'tax impact',
-    'homeowner': 'tax impact', 'levy': 'tax impact',
+    'homeowner': 'tax impact', 'levy': 'tax impact', 'property owner': 'tax impact', 'per household': 'tax impact', 'home value': 'tax impact', 'mil rate': 'tax impact', 'mill rate': 'tax impact',
     'state funding': 'revenue', 'state subsidy': 'revenue',
     'federal': 'grant', 'title i': 'grant', 'esser': 'grant',
     'kindergarten': 'early childhood', 'pre-k': 'early childhood', 'preschool': 'early childhood',
@@ -173,7 +173,8 @@ async function selectFromIndex(expandedQ) {
 async function selectFromPolicyFiles(expandedQ) {
   const allPolicyFiles = await getPolicyFileList();
   const STOPWORDS = new Set(['the','and','for','are','was','pdf','what','when','does','use',
-    'with','student','students','board','school','rsu','rsu5','directors','policy','of','in']);
+    'with','board','rsu','rsu5','directors','of','in']);
+  // Note: 'student', 'school', 'policy' intentionally kept so they differentiate filenames
 
   const qWords = expandedQ.split(/\s+/)
     .map(w => w.replace(/[^a-z0-9]/g, ''))
